@@ -76,7 +76,7 @@
             "last_commit": "2024-06-06T18:02:59Z",
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1528
+            "stars": 1529
           }
         },
         {
@@ -234,7 +234,7 @@
             "last_commit": "2026-04-13T16:46:20Z",
             "owner": "Netflix",
             "repo": "hubcommander",
-            "stars": 1311
+            "stars": 1312
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2026-08-12T16:55:40Z",
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13639
+            "stars": 13640
           }
         },
         {
@@ -479,10 +479,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T14:08:38Z",
+            "last_commit": "2026-08-13T12:31:58Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4100
+            "stars": 4105
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2026-08-07T21:53:54Z",
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2600
+            "stars": 2601
           }
         },
         {
@@ -521,7 +521,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T21:17:03Z",
+            "last_commit": "2026-08-13T08:24:38Z",
             "owner": "oss-review-toolkit",
             "repo": "ort",
             "stars": 2068
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:18:34.692Z",
+    "last_updated": "2026-08-13T13:42:42.543Z",
     "original_repository": "todogroup/awesome-ospo",
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
     "enhanced_repository": "enhansome/enhansome-ospo",
