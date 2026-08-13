@@ -1,0 +1,645 @@
+{
+  "items": [
+    {
+      "description": "Tools for managing and automating code review processes.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "pull-review",
+          "description": "Assign pull request reviewers intelligently, inspired by mention-bot.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-02T12:20:06Z",
+            "owner": "imsky",
+            "repo": "pull-review",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pull-request-size",
+          "description": "Automatically adds GitHub labels based on the size of a pull request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-17T22:01:52Z",
+            "owner": "noqcks",
+            "repo": "pull-request-size",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pullie",
+          "description": "GitHub App that helps with pull requests (requests reviews, links Jira tickets, reminds users about missing required file changes e.g., changelog entries).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2025-05-23T21:38:04Z",
+            "owner": "godaddy",
+            "repo": "pullie",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sentinel",
+          "description": "PR Test, review, and merge workflow bot.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2026-01-15T19:57:53Z",
+            "owner": "chef-boneyard",
+            "repo": "sentinel",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Code Reviews"
+    },
+    {
+      "description": "CLA and DCO management tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CLA Assistant",
+          "description": "Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-06T18:02:59Z",
+            "owner": "cla-assistant",
+            "repo": "cla-assistant",
+            "stars": 1528
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyCLA",
+          "description": "A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:36:48Z",
+            "owner": "linuxfoundation",
+            "repo": "easycla",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dr CLA",
+          "description": "GitHub bot for dealing with Contributor License Agreements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-02T18:02:08Z",
+            "owner": "salesforce",
+            "repo": "dr-cla",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCO Bot",
+          "description": "GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests.",
+          "children": []
+        }
+      ],
+      "title": "Contributor License Agreements / Developer Certificate of Origins"
+    },
+    {
+      "description": "Tools for tracking and visualizing GitHub activity.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Issue/PR/Discussion Metrics",
+          "description": "A GitHub Action that searches for pull requests/issues/discussions in a repository or organization and measures several available metrics like time to close and time to first response. It calculates the metrics and writes the metrics to a Markdown file. The issues/pull requests/discussions can be filtered by using a search query.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T03:02:24Z",
+            "owner": "github-community-projects",
+            "repo": "issue-metrics",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "osstracker",
+          "description": "An application that collects information about a GitHub organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2024-03-10T11:29:28Z",
+            "owner": "Netflix",
+            "repo": "osstracker",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MeasureOSS",
+          "description": "A contributor relationship management system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-04-18T17:01:46Z",
+            "owner": "MeasureOSS",
+            "repo": "Measure",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project Portal",
+          "description": "Lists all InnerSource (or Open Source) projects of a company in an interactive and easy to use way. Can be used as a template for implementing the \"InnerSource portal\" pattern by the InnerSource Commons community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-17T12:03:12Z",
+            "owner": "SAP",
+            "repo": "project-portal-for-innersource",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "devstats",
+          "description": "A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-31T05:34:03Z",
+            "owner": "cncf",
+            "repo": "devstats",
+            "stars": 128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Augur",
+          "description": "A software suite for collecting and measuring structured data about OSS communities.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-07-23T14:32:13Z",
+            "owner": "chaoss",
+            "repo": "augur",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "GitHub Metrics and Dashboards"
+    },
+    {
+      "description": "Tools for managing GitHub organizations and repositories.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Copybara",
+          "description": "A tool for transforming and moving code between repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T16:45:15Z",
+            "owner": "google",
+            "repo": "copybara",
+            "stars": 3795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hubcommander",
+          "description": "A Slack bot for GitHub organization management.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T16:46:20Z",
+            "owner": "Netflix",
+            "repo": "hubcommander",
+            "stars": 1311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "opensource-management-portal",
+          "description": "Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T01:33:32Z",
+            "owner": "microsoft",
+            "repo": "opensource-management-portal",
+            "stars": 530
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pepper",
+          "description": "A tool for performing actions on GitHub repos or a single repo.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-01-12T15:57:44Z",
+            "owner": "genuinetools",
+            "repo": "pepper",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "(Corporate) Git Proxy",
+          "description": "Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T14:16:42Z",
+            "owner": "finos",
+            "repo": "git-proxy",
+            "stars": 237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stale Repos Action",
+          "description": "Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:01:10Z",
+            "owner": "github-community-projects",
+            "repo": "stale-repos",
+            "stars": 201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sheriff",
+          "description": "Controls and monitors organization permissions across GitHub, Slack and GSuite.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T20:50:17Z",
+            "owner": "electron",
+            "repo": "sheriff",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automated GitHub Organization Invites",
+          "description": "Host a webpage to allow people to click and receive an invite to your GitHub Organization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2023-03-16T10:00:00Z",
+            "owner": "thundergolfer",
+            "repo": "automated-github-organization-invites",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grit",
+          "description": "A tool to mirror monorepo subtrees to GitHub.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-04-16T23:15:52Z",
+            "owner": "grailbio",
+            "repo": "grit",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-org-mgmt",
+          "description": "A few scripts for managing a GitHub organization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-15T06:58:04Z",
+            "owner": "bertvv",
+            "repo": "github-org-mgmt",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-org-scripts",
+          "description": "Some helper scripts to manage GitHub organizations via API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-05-03T21:20:29Z",
+            "owner": "mozilla",
+            "repo": "github-org-scripts",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mariner Issue Collector",
+          "description": "Identify open issues across all of your dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-07-14T16:02:18Z",
+            "owner": "indeedeng",
+            "repo": "Mariner-Issue-Collector",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Settings",
+          "description": "Uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Forker",
+          "description": "A GitHub Action that can automate the creation of fork repositories.",
+          "children": []
+        }
+      ],
+      "title": "GitHub Management"
+    },
+    {
+      "description": "Tools for assessing and improving project quality.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Linguist",
+          "description": "Identify the programming languages used in a project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-12T16:55:40Z",
+            "owner": "github-linguist",
+            "repo": "linguist",
+            "stars": 13639
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RepoLinter",
+          "description": "Lint open source repositories for common issues.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2026-02-06T16:05:36Z",
+            "owner": "todogroup",
+            "repo": "repolinter",
+            "stars": 465
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Repo Health Check",
+          "description": "Analyze a project: How are the maintainers doing?",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CoffeeScript",
+            "last_commit": "2024-06-07T19:00:31Z",
+            "owner": "dogweather",
+            "repo": "repo-health-check",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fosstars",
+          "description": "A framework for defining and calculating ratings for open source projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-08T06:53:37Z",
+            "owner": "SAP",
+            "repo": "fosstars-rating-core",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "repo-scaffolding",
+          "description": "Scaffolding tools for creating and maintaining projects based on Twitter Open Source standards and best practices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-08-17T17:58:52Z",
+            "owner": "twitter",
+            "repo": "repo-scaffolding",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "Project Quality"
+    },
+    {
+      "description": "Tools for managing and tracking open source licenses.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DependencyTrack",
+          "description": "An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T14:08:38Z",
+            "owner": "DependencyTrack",
+            "repo": "dependency-track",
+            "stars": 4100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScanCode toolkit",
+          "description": "Scan code for licenses, copyright and dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T21:53:54Z",
+            "owner": "aboutcode-org",
+            "repo": "scancode-toolkit",
+            "stars": 2600
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LicensePlist",
+          "description": "A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-28T07:58:20Z",
+            "owner": "mono0926",
+            "repo": "LicensePlist",
+            "stars": 2535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSS Review Toolkit",
+          "description": "Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T21:17:03Z",
+            "owner": "oss-review-toolkit",
+            "repo": "ort",
+            "stars": 2068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LicenseFinder",
+          "description": "Find licenses for your project's dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2024-07-22T21:57:46Z",
+            "owner": "pivotal",
+            "repo": "LicenseFinder",
+            "stars": 1792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fossa-cli",
+          "description": "Fast, portable and reliable dependency analysis for any codebase.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-12T14:07:49Z",
+            "owner": "fossas",
+            "repo": "fossa-cli",
+            "stars": 1513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Licensed",
+          "description": "A Ruby gem to cache and verify the licenses of dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-09T18:35:54Z",
+            "owner": "licensee",
+            "repo": "licensed",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Licensee",
+          "description": "Identify a project's license file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-10T06:45:32Z",
+            "owner": "licensee",
+            "repo": "licensee",
+            "stars": 903
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License Classifier",
+          "description": "A library and set of tools that can analyze text to determine what type of license it contains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-18T19:37:39Z",
+            "owner": "google",
+            "repo": "licenseclassifier",
+            "stars": 349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "askalono",
+          "description": "A library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-10-22T03:21:48Z",
+            "owner": "jpeddicord",
+            "repo": "askalono",
+            "stars": 275
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dpkg-licenses",
+          "description": "A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-10-13T13:55:19Z",
+            "owner": "daald",
+            "repo": "dpkg-licenses",
+            "stars": 177
+          }
+        }
+      ],
+      "title": "Licensing"
+    },
+    {
+      "description": "© Contributors 2016-2021",
+      "items": [],
+      "title": "Content License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:18:34.692Z",
+    "original_repository": "todogroup/awesome-ospo",
+    "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
+    "enhanced_repository": "enhansome/enhansome-ospo",
+    "enhanced_repository_description": null,
+    "title": "Awesome OSS Management with stars"
+  }
+}
