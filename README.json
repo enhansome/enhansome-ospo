@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T22:36:48Z",
+            "last_commit": "2026-08-13T18:41:20Z",
             "owner": "linuxfoundation",
             "repo": "easycla",
             "stars": 76
@@ -127,7 +127,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T03:02:24Z",
+            "last_commit": "2026-08-13T18:00:53Z",
             "owner": "github-community-projects",
             "repo": "issue-metrics",
             "stars": 535
@@ -217,7 +217,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T16:45:15Z",
+            "last_commit": "2026-08-14T05:55:27Z",
             "owner": "google",
             "repo": "copybara",
             "stars": 3795
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T14:16:42Z",
+            "last_commit": "2026-08-14T03:21:28Z",
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 237
@@ -406,7 +406,7 @@
             "last_commit": "2026-08-12T16:55:40Z",
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13640
+            "stars": 13642
           }
         },
         {
@@ -445,7 +445,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-08T06:53:37Z",
+            "last_commit": "2026-08-13T19:31:17Z",
             "owner": "SAP",
             "repo": "fosstars-rating-core",
             "stars": 66
@@ -479,10 +479,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T12:31:58Z",
+            "last_commit": "2026-08-14T10:40:47Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4105
+            "stars": 4110
           }
         },
         {
@@ -521,7 +521,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-13T08:24:38Z",
+            "last_commit": "2026-08-14T13:19:36Z",
             "owner": "oss-review-toolkit",
             "repo": "ort",
             "stars": 2068
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T13:42:42.543Z",
+    "last_updated": "2026-08-14T13:37:53.003Z",
     "original_repository": "todogroup/awesome-ospo",
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
     "enhanced_repository": "enhansome/enhansome-ospo",
