@@ -87,10 +87,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:41:20Z",
+            "last_commit": "2026-08-14T19:32:59Z",
             "owner": "linuxfoundation",
             "repo": "easycla",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -127,7 +127,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T18:00:53Z",
+            "last_commit": "2026-08-14T16:26:09Z",
             "owner": "github-community-projects",
             "repo": "issue-metrics",
             "stars": 535
@@ -186,7 +186,7 @@
             "last_commit": "2026-07-31T05:34:03Z",
             "owner": "cncf",
             "repo": "devstats",
-            "stars": 128
+            "stars": 129
           }
         },
         {
@@ -406,7 +406,7 @@
             "last_commit": "2026-08-12T16:55:40Z",
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13642
+            "stars": 13641
           }
         },
         {
@@ -479,10 +479,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T10:40:47Z",
+            "last_commit": "2026-08-14T18:16:09Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4110
+            "stars": 4115
           }
         },
         {
@@ -493,10 +493,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T21:53:54Z",
+            "last_commit": "2026-08-15T01:22:57Z",
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2601
+            "stars": 2602
           }
         },
         {
@@ -510,7 +510,7 @@
             "last_commit": "2026-07-28T07:58:20Z",
             "owner": "mono0926",
             "repo": "LicensePlist",
-            "stars": 2535
+            "stars": 2534
           }
         },
         {
@@ -521,7 +521,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-14T13:19:36Z",
+            "last_commit": "2026-08-15T12:53:08Z",
             "owner": "oss-review-toolkit",
             "repo": "ort",
             "stars": 2068
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-12T14:07:49Z",
             "owner": "fossas",
             "repo": "fossa-cli",
-            "stars": 1513
+            "stars": 1514
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T13:37:53.003Z",
+    "last_updated": "2026-08-15T12:56:30.189Z",
     "original_repository": "todogroup/awesome-ospo",
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
     "enhanced_repository": "enhansome/enhansome-ospo",
