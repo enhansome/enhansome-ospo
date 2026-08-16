@@ -90,7 +90,7 @@
             "last_commit": "2026-08-14T19:32:59Z",
             "owner": "linuxfoundation",
             "repo": "easycla",
-            "stars": 77
+            "stars": 79
           }
         },
         {
@@ -273,10 +273,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T03:21:28Z",
+            "last_commit": "2026-08-16T09:45:12Z",
             "owner": "finos",
             "repo": "git-proxy",
-            "stars": 237
+            "stars": 238
           }
         },
         {
@@ -290,7 +290,7 @@
             "last_commit": "2026-08-13T01:01:10Z",
             "owner": "github-community-projects",
             "repo": "stale-repos",
-            "stars": 201
+            "stars": 202
           }
         },
         {
@@ -403,10 +403,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-12T16:55:40Z",
+            "last_commit": "2026-08-16T10:15:21Z",
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13641
+            "stars": 13643
           }
         },
         {
@@ -479,10 +479,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T18:16:09Z",
+            "last_commit": "2026-08-15T14:57:08Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4115
+            "stars": 4116
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2026-08-15T01:22:57Z",
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2602
+            "stars": 2603
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T12:56:30.189Z",
+    "last_updated": "2026-08-16T12:58:33.041Z",
     "original_repository": "todogroup/awesome-ospo",
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
     "enhanced_repository": "enhansome/enhansome-ospo",
