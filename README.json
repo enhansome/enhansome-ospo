@@ -87,7 +87,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T19:32:59Z",
+            "last_commit": "2026-08-18T08:30:43Z",
             "owner": "linuxfoundation",
             "repo": "easycla",
             "stars": 79
@@ -217,10 +217,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T05:55:27Z",
+            "last_commit": "2026-08-17T19:25:09Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3798
+            "stars": 3800
           }
         },
         {
@@ -273,7 +273,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T08:15:15Z",
+            "last_commit": "2026-08-18T12:30:03Z",
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 239
@@ -403,10 +403,10 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-16T10:15:21Z",
+            "last_commit": "2026-08-18T08:52:08Z",
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13641
+            "stars": 13642
           }
         },
         {
@@ -479,10 +479,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T11:15:43Z",
+            "last_commit": "2026-08-18T12:54:28Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4118
+            "stars": 4120
           }
         },
         {
@@ -496,7 +496,7 @@
             "last_commit": "2026-08-15T01:22:57Z",
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2603
+            "stars": 2605
           }
         },
         {
@@ -521,10 +521,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-17T12:19:57Z",
+            "last_commit": "2026-08-18T12:08:54Z",
             "owner": "oss-review-toolkit",
             "repo": "ort",
-            "stars": 2069
+            "stars": 2068
           }
         },
         {
@@ -538,7 +538,7 @@
             "last_commit": "2024-07-22T21:57:46Z",
             "owner": "pivotal",
             "repo": "LicenseFinder",
-            "stars": 1792
+            "stars": 1793
           }
         },
         {
@@ -549,7 +549,7 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-12T14:07:49Z",
+            "last_commit": "2026-08-18T00:26:49Z",
             "owner": "fossas",
             "repo": "fossa-cli",
             "stars": 1515
@@ -566,7 +566,7 @@
             "last_commit": "2026-08-09T18:35:54Z",
             "owner": "licensee",
             "repo": "licensed",
-            "stars": 1043
+            "stars": 1044
           }
         },
         {
@@ -577,7 +577,7 @@
           "repo_info": {
             "archived": false,
             "language": "Ruby",
-            "last_commit": "2026-08-17T05:41:51Z",
+            "last_commit": "2026-08-17T18:57:52Z",
             "owner": "licensee",
             "repo": "licensee",
             "stars": 904
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T13:03:57.444Z",
+    "last_updated": "2026-08-18T13:05:35.000Z",
     "original_repository": "todogroup/awesome-ospo",
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
     "enhanced_repository": "enhansome/enhansome-ospo",
