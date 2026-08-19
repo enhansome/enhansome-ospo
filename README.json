@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83502071,
             "language": "JavaScript",
             "last_commit": "2023-03-02T12:20:06Z",
             "owner": "imsky",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 155721197,
             "language": "JavaScript",
             "last_commit": "2026-07-17T22:01:52Z",
             "owner": "noqcks",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 150498706,
             "language": "JavaScript",
             "last_commit": "2025-05-23T21:38:04Z",
             "owner": "godaddy",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 68034464,
             "language": "Ruby",
             "last_commit": "2026-01-15T19:57:53Z",
             "owner": "chef-boneyard",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26210598,
             "language": "JavaScript",
             "last_commit": "2024-06-06T18:02:59Z",
             "owner": "cla-assistant",
@@ -86,8 +91,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 194341141,
             "language": "Go",
-            "last_commit": "2026-08-18T08:30:43Z",
+            "last_commit": "2026-08-19T12:40:14Z",
             "owner": "linuxfoundation",
             "repo": "easycla",
             "stars": 79
@@ -100,18 +106,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44138060,
             "language": "Scala",
             "last_commit": "2026-06-02T18:02:08Z",
             "owner": "salesforce",
             "repo": "dr-cla",
             "stars": 21
           }
-        },
-        {
-          "node_type": "item",
-          "title": "DCO Bot",
-          "description": "GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests.",
-          "children": []
         }
       ],
       "title": "Contributor License Agreements / Developer Certificate of Origins"
@@ -126,11 +127,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 648340231,
             "language": "Python",
             "last_commit": "2026-08-14T16:26:09Z",
             "owner": "github-community-projects",
             "repo": "issue-metrics",
-            "stars": 535
+            "stars": 536
           }
         },
         {
@@ -140,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51327281,
             "language": "Scala",
             "last_commit": "2024-03-10T11:29:28Z",
             "owner": "Netflix",
@@ -154,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 95562890,
             "language": "JavaScript",
             "last_commit": "2023-04-18T17:01:46Z",
             "owner": "MeasureOSS",
@@ -168,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 317539399,
             "language": "JavaScript",
             "last_commit": "2026-06-17T12:03:12Z",
             "owner": "SAP",
@@ -182,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 621207364,
             "language": "Shell",
             "last_commit": "2026-07-31T05:34:03Z",
             "owner": "cncf",
@@ -196,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1310035685,
             "language": null,
             "last_commit": "2026-07-23T14:32:13Z",
             "owner": "chaoss",
@@ -216,11 +223,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67722017,
             "language": "Java",
-            "last_commit": "2026-08-17T19:25:09Z",
+            "last_commit": "2026-08-18T22:09:52Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3800
+            "stars": 3802
           }
         },
         {
@@ -230,6 +238,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81116742,
             "language": "Python",
             "last_commit": "2026-04-13T16:46:20Z",
             "owner": "Netflix",
@@ -244,6 +253,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46088926,
             "language": "TypeScript",
             "last_commit": "2026-07-31T01:33:32Z",
             "owner": "microsoft",
@@ -258,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69827437,
             "language": "Go",
             "last_commit": "2023-01-12T15:57:44Z",
             "owner": "genuinetools",
@@ -272,8 +283,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 256513079,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T12:30:03Z",
+            "last_commit": "2026-08-19T10:19:23Z",
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 239
@@ -286,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 642585551,
             "language": "Python",
             "last_commit": "2026-08-13T01:01:10Z",
             "owner": "github-community-projects",
@@ -300,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 255791819,
             "language": "TypeScript",
             "last_commit": "2026-08-17T05:32:48Z",
             "owner": "electron",
@@ -314,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80405376,
             "language": "Ruby",
             "last_commit": "2023-03-16T10:00:00Z",
             "owner": "thundergolfer",
@@ -328,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 157592315,
             "language": "Go",
             "last_commit": "2023-04-16T23:15:52Z",
             "owner": "grailbio",
@@ -342,6 +358,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28887768,
             "language": "Python",
             "last_commit": "2021-11-15T06:58:04Z",
             "owner": "bertvv",
@@ -356,6 +373,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 28990032,
             "language": "Jupyter Notebook",
             "last_commit": "2025-05-03T21:20:29Z",
             "owner": "mozilla",
@@ -370,24 +388,13 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 299801061,
             "language": "JavaScript",
             "last_commit": "2023-07-14T16:02:18Z",
             "owner": "indeedeng",
             "repo": "Mariner-Issue-Collector",
             "stars": 25
           }
-        },
-        {
-          "node_type": "item",
-          "title": "GitHub Settings",
-          "description": "Uses .github/config.yml as the source of truth, and any changes to that file in the default branch will update GitHub.",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "Forker",
-          "description": "A GitHub Action that can automate the creation of fork repositories.",
-          "children": []
         }
       ],
       "title": "GitHub Management"
@@ -402,11 +409,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1725199,
             "language": "Ruby",
             "last_commit": "2026-08-18T08:52:08Z",
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13642
+            "stars": 13645
           }
         },
         {
@@ -416,6 +424,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 94138426,
             "language": "JavaScript",
             "last_commit": "2026-02-06T16:05:36Z",
             "owner": "todogroup",
@@ -430,6 +439,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32483705,
             "language": "CoffeeScript",
             "last_commit": "2024-06-07T19:00:31Z",
             "owner": "dogweather",
@@ -444,6 +454,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 236462734,
             "language": "Java",
             "last_commit": "2026-08-13T19:31:17Z",
             "owner": "SAP",
@@ -458,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136096407,
             "language": null,
             "last_commit": "2021-08-17T17:58:52Z",
             "owner": "twitter",
@@ -478,11 +490,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11457947,
             "language": "Java",
-            "last_commit": "2026-08-18T12:54:28Z",
+            "last_commit": "2026-08-19T12:45:23Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4120
+            "stars": 4124
           }
         },
         {
@@ -492,11 +505,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38373338,
             "language": "Python",
-            "last_commit": "2026-08-15T01:22:57Z",
+            "last_commit": "2026-08-19T01:35:52Z",
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2605
+            "stars": 2606
           }
         },
         {
@@ -506,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89676988,
             "language": "Swift",
             "last_commit": "2026-07-28T07:58:20Z",
             "owner": "mono0926",
@@ -520,8 +535,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 107540288,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T12:08:54Z",
+            "last_commit": "2026-08-19T12:20:43Z",
             "owner": "oss-review-toolkit",
             "repo": "ort",
             "stars": 2068
@@ -534,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1262785,
             "language": "Ruby",
             "last_commit": "2024-07-22T21:57:46Z",
             "owner": "pivotal",
@@ -548,8 +565,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116995448,
             "language": "Haskell",
-            "last_commit": "2026-08-18T00:26:49Z",
+            "last_commit": "2026-08-18T19:46:50Z",
             "owner": "fossas",
             "repo": "fossa-cli",
             "stars": 1515
@@ -562,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120039636,
             "language": "Ruby",
             "last_commit": "2026-08-09T18:35:54Z",
             "owner": "licensee",
@@ -576,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23022377,
             "language": "Ruby",
             "last_commit": "2026-08-17T18:57:52Z",
             "owner": "licensee",
@@ -590,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87763861,
             "language": "Go",
             "last_commit": "2026-02-18T19:37:39Z",
             "owner": "google",
@@ -604,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 116440794,
             "language": "Rust",
             "last_commit": "2024-10-22T03:21:48Z",
             "owner": "jpeddicord",
@@ -618,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51371726,
             "language": "Shell",
             "last_commit": "2023-10-13T13:55:19Z",
             "owner": "daald",
@@ -627,16 +650,12 @@
         }
       ],
       "title": "Licensing"
-    },
-    {
-      "description": "© Contributors 2016-2021",
-      "items": [],
-      "title": "Content License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:05:35.000Z",
+    "last_updated": "2026-08-19T12:45:37.232Z",
     "original_repository": "todogroup/awesome-ospo",
+    "original_repository_id": 75903395,
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
     "enhanced_repository": "enhansome/enhansome-ospo",
     "enhanced_repository_description": null,
