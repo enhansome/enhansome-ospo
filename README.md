@@ -31,7 +31,7 @@ CI/CD platforms and tools.
 CLA and DCO management tools.
 
 * [CLA Assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,529 | 🐛 242 | 🌐 JavaScript | 📅 2024-06-06 - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
-* [EasyCLA](https://github.com/linuxfoundation/easycla) ⭐ 79 | 🐛 129 | 🌐 Go | 📅 2026-08-19 - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
+* [EasyCLA](https://github.com/linuxfoundation/easycla) ⭐ 79 | 🐛 128 | 🌐 Go | 📅 2026-08-19 - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
 * [Dr CLA](https://github.com/salesforce/dr-cla) ⭐ 21 | 🐛 0 | 🌐 Scala | 📅 2026-06-02 - GitHub bot for dealing with Contributor License Agreements.
 * [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests.
 
@@ -95,10 +95,10 @@ Tools/frameworks for managing software supply chain security.
 
 Tools for managing and tracking open source licenses.
 
-* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,124 | 🐛 1,080 | 🌐 Java | 📅 2026-08-19 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,124 | 🐛 1,079 | 🌐 Java | 📅 2026-08-19 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,606 | 🐛 1,672 | 🌐 Python | 📅 2026-08-19 - Scan code for licenses, copyright and dependencies.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) ⭐ 2,534 | 🐛 40 | 🌐 Swift | 📅 2026-07-28 - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,068 | 🐛 325 | 🌐 Kotlin | 📅 2026-08-19 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,068 | 🐛 323 | 🌐 Kotlin | 📅 2026-08-19 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
 * [LicenseFinder](https://github.com/pivotal/LicenseFinder) ⭐ 1,793 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - Find licenses for your project's dependencies.
 * [fossa-cli](https://github.com/fossas/fossa-cli) ⭐ 1,515 | 🐛 20 | 🌐 Haskell | 📅 2026-08-18 - Fast, portable and reliable dependency analysis for any codebase.
 * [Licensed](https://github.com/licensee/licensed) ⭐ 1,044 | 🐛 4 | 🌐 Ruby | 📅 2026-08-09 - A Ruby gem to cache and verify the licenses of dependencies.
