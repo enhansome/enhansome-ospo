@@ -55,7 +55,7 @@ Tools for managing GitHub organizations and repositories.
 * [hubcommander](https://github.com/Netflix/hubcommander) ⭐ 1,312 | 🐛 16 | 🌐 Python | 📅 2026-04-13 - A Slack bot for GitHub organization management.
 * [opensource-management-portal](https://github.com/microsoft/opensource-management-portal) ⭐ 530 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-21 - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 * [Pepper](https://github.com/genuinetools/pepper) ⭐ 356 | 🐛 2 | 🌐 Go | 📅 2023-01-12 - A tool for performing actions on GitHub repos or a single repo.
-* [(Corporate) Git Proxy](https://github.com/finos/git-proxy) ⭐ 240 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-22 - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
+* [(Corporate) Git Proxy](https://github.com/finos/git-proxy) ⭐ 240 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-23 - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
 * [Stale Repos Action](https://github.com/github/stale-repos) ⭐ 202 | 🐛 2 | 🌐 Python | 📅 2026-08-20 - Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.
 * [Sheriff](https://github.com/electron/sheriff) ⭐ 153 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21 - Controls and monitors organization permissions across GitHub, Slack and GSuite.
 * [Automated GitHub Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) ⭐ 108 | 🐛 9 | 🌐 Ruby | 📅 2023-03-16 - Host a webpage to allow people to click and receive an invite to your GitHub Organization.
@@ -78,7 +78,7 @@ Tools for project governance and community management.
 
 Tools for assessing and improving project quality.
 
-* [Linguist](https://github.com/github-linguist/linguist) ⭐ 13,653 | 🐛 229 | 🌐 Ruby | 📅 2026-08-20 - Identify the programming languages used in a project.
+* [Linguist](https://github.com/github-linguist/linguist) ⭐ 13,658 | 🐛 228 | 🌐 Ruby | 📅 2026-08-20 - Identify the programming languages used in a project.
 * [RepoLinter](https://github.com/todogroup/repolinter) ⚠️ Archived - Lint open source repositories for common issues.
 * [Repo Health Check](https://github.com/dogweather/repo-health-check) ⭐ 86 | 🐛 16 | 🌐 CoffeeScript | 📅 2024-06-07 - Analyze a project: How are the maintainers doing?
 * [Fosstars](https://github.com/SAP/fosstars-rating-core) ⭐ 66 | 🐛 93 | 🌐 Java | 📅 2026-08-13 - A framework for defining and calculating ratings for open source projects.
@@ -95,8 +95,8 @@ Tools/frameworks for managing software supply chain security.
 
 Tools for managing and tracking open source licenses.
 
-* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,133 | 🐛 1,081 | 🌐 Java | 📅 2026-08-21 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-* [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,609 | 🐛 1,671 | 🌐 Python | 📅 2026-08-22 - Scan code for licenses, copyright and dependencies.
+* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,135 | 🐛 1,082 | 🌐 Java | 📅 2026-08-21 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,610 | 🐛 1,674 | 🌐 Python | 📅 2026-08-22 - Scan code for licenses, copyright and dependencies.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) ⭐ 2,534 | 🐛 40 | 🌐 Swift | 📅 2026-07-28 - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.
 * [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,072 | 🐛 324 | 🌐 Kotlin | 📅 2026-08-22 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
 * [LicenseFinder](https://github.com/pivotal/LicenseFinder) ⭐ 1,793 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - Find licenses for your project's dependencies.
@@ -151,4 +151,4 @@ The following organizations have formal or informal programs for offering in-kin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
