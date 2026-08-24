@@ -189,7 +189,7 @@
             "archived": false,
             "id": 621207364,
             "language": "Shell",
-            "last_commit": "2026-08-24T13:01:28Z",
+            "last_commit": "2026-08-24T14:00:25Z",
             "owner": "cncf",
             "repo": "devstats",
             "stars": 130
@@ -285,10 +285,10 @@
             "archived": false,
             "id": 256513079,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:59:32Z",
+            "last_commit": "2026-08-24T13:55:38Z",
             "owner": "finos",
             "repo": "git-proxy",
-            "stars": 240
+            "stars": 241
           }
         },
         {
@@ -411,7 +411,7 @@
             "archived": false,
             "id": 1725199,
             "language": "Ruby",
-            "last_commit": "2026-08-24T10:33:10Z",
+            "last_commit": "2026-08-24T13:53:28Z",
             "owner": "github-linguist",
             "repo": "linguist",
             "stars": 13656
@@ -492,7 +492,7 @@
             "archived": false,
             "id": 11457947,
             "language": "Java",
-            "last_commit": "2026-08-24T12:48:07Z",
+            "last_commit": "2026-08-24T13:44:09Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
             "stars": 4136
@@ -600,7 +600,7 @@
             "last_commit": "2026-08-24T01:06:43Z",
             "owner": "licensee",
             "repo": "licensee",
-            "stars": 905
+            "stars": 906
           }
         },
         {
@@ -650,10 +650,52 @@
         }
       ],
       "title": "Licensing"
+    },
+    {
+      "description": "Tools for managing translations and i18n.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zanata",
+          "description": "Web-based system for translators to translate documentation and software online using a web browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71434550,
+            "language": "Java",
+            "last_commit": "2025-09-22T23:26:30Z",
+            "owner": "zanata",
+            "repo": "zanata-platform",
+            "stars": 340
+          }
+        }
+      ],
+      "title": "Localization and Internationalization"
+    },
+    {
+      "description": "Security scanning and vulnerability management tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Eclipse Steady",
+          "description": "Helps to discover, assess and mitigate known vulnerabilities in Java and Python projects. Formerly known as \"Vulnerability Assessement Tool\" (Vulas).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145424401,
+            "language": "Java",
+            "last_commit": "2023-12-04T20:14:04Z",
+            "owner": "eclipse-steady",
+            "repo": "steady",
+            "stars": 547
+          }
+        }
+      ],
+      "title": "Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:10:39.208Z",
+    "last_updated": "2026-08-24T14:22:45.834Z",
     "original_repository": "todogroup/awesome-ospo",
     "original_repository_id": 75903395,
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
