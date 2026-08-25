@@ -51,15 +51,15 @@ Tools for tracking and visualizing GitHub activity.
 
 Tools for managing GitHub organizations and repositories.
 
-* [Copybara](https://github.com/google/copybara) ⭐ 3,812 | 🐛 105 | 🌐 Java | 📅 2026-08-24 - A tool for transforming and moving code between repositories.
+* [Copybara](https://github.com/google/copybara) ⭐ 3,814 | 🐛 105 | 🌐 Java | 📅 2026-08-24 - A tool for transforming and moving code between repositories.
 * [hubcommander](https://github.com/Netflix/hubcommander) ⭐ 1,312 | 🐛 16 | 🌐 Python | 📅 2026-04-13 - A Slack bot for GitHub organization management.
 * [opensource-management-portal](https://github.com/microsoft/opensource-management-portal) ⭐ 530 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-25 - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 * [Pepper](https://github.com/genuinetools/pepper) ⭐ 356 | 🐛 2 | 🌐 Go | 📅 2023-01-12 - A tool for performing actions on GitHub repos or a single repo.
-* [(Corporate) Git Proxy](https://github.com/finos/git-proxy) ⭐ 241 | 🐛 107 | 🌐 TypeScript | 📅 2026-08-25 - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
+* [(Corporate) Git Proxy](https://github.com/finos/git-proxy) ⭐ 241 | 🐛 106 | 🌐 TypeScript | 📅 2026-08-25 - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
 * [Stale Repos Action](https://github.com/github/stale-repos) ⭐ 202 | 🐛 2 | 🌐 Python | 📅 2026-08-20 - Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.
 * [Sheriff](https://github.com/electron/sheriff) ⭐ 153 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21 - Controls and monitors organization permissions across GitHub, Slack and GSuite.
 * [Automated GitHub Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) ⭐ 108 | 🐛 9 | 🌐 Ruby | 📅 2023-03-16 - Host a webpage to allow people to click and receive an invite to your GitHub Organization.
-* [Grit](https://github.com/grailbio/grit) ⭐ 64 | 🐛 1 | 🌐 Go | 📅 2023-04-16 - A tool to mirror monorepo subtrees to GitHub.
+* [Grit](https://github.com/grailbio/grit) ⭐ 64 | 🐛 2 | 🌐 Go | 📅 2023-04-16 - A tool to mirror monorepo subtrees to GitHub.
 * [github-org-mgmt](https://github.com/bertvv/github-org-mgmt) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2021-11-15 - A few scripts for managing a GitHub organization.
 * [github-org-scripts](https://github.com/mozilla/github-org-scripts) ⚠️ Archived - Some helper scripts to manage GitHub organizations via API.
 * [Mariner Issue Collector](https://github.com/indeedeng/Mariner-Issue-Collector) ⚠️ Archived - Identify open issues across all of your dependencies.
@@ -95,12 +95,12 @@ Tools/frameworks for managing software supply chain security.
 
 Tools for managing and tracking open source licenses.
 
-* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,139 | 🐛 1,074 | 🌐 Java | 📅 2026-08-24 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-* [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,612 | 🐛 1,679 | 🌐 Python | 📅 2026-08-25 - Scan code for licenses, copyright and dependencies.
+* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,140 | 🐛 1,082 | 🌐 Java | 📅 2026-08-25 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,612 | 🐛 1,686 | 🌐 Python | 📅 2026-08-25 - Scan code for licenses, copyright and dependencies.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) ⭐ 2,534 | 🐛 40 | 🌐 Swift | 📅 2026-07-28 - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,073 | 🐛 326 | 🌐 Kotlin | 📅 2026-08-24 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,074 | 🐛 326 | 🌐 Kotlin | 📅 2026-08-25 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
 * [LicenseFinder](https://github.com/pivotal/LicenseFinder) ⭐ 1,793 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - Find licenses for your project's dependencies.
-* [fossa-cli](https://github.com/fossas/fossa-cli) ⭐ 1,515 | 🐛 9 | 🌐 Haskell | 📅 2026-08-25 - Fast, portable and reliable dependency analysis for any codebase.
+* [fossa-cli](https://github.com/fossas/fossa-cli) ⭐ 1,515 | 🐛 10 | 🌐 Haskell | 📅 2026-08-25 - Fast, portable and reliable dependency analysis for any codebase.
 * [Licensed](https://github.com/licensee/licensed) ⭐ 1,044 | 🐛 4 | 🌐 Ruby | 📅 2026-08-09 - A Ruby gem to cache and verify the licenses of dependencies.
 * [Licensee](https://github.com/licensee/licensee) ⭐ 906 | 🐛 5 | 🌐 Ruby | 📅 2026-08-24 - Identify a project's license file.
 * [License Classifier](https://github.com/google/licenseclassifier) ⭐ 348 | 🐛 19 | 🌐 Go | 📅 2026-02-18 - A library and set of tools that can analyze text to determine what type of license it contains.
