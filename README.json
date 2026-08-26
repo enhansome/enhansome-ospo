@@ -93,7 +93,7 @@
             "archived": false,
             "id": 194341141,
             "language": "Go",
-            "last_commit": "2026-08-25T11:31:18Z",
+            "last_commit": "2026-08-25T14:29:22Z",
             "owner": "linuxfoundation",
             "repo": "easycla",
             "stars": 79
@@ -189,7 +189,7 @@
             "archived": false,
             "id": 621207364,
             "language": "Shell",
-            "last_commit": "2026-08-25T06:04:30Z",
+            "last_commit": "2026-08-26T12:42:56Z",
             "owner": "cncf",
             "repo": "devstats",
             "stars": 129
@@ -225,10 +225,10 @@
             "archived": false,
             "id": 67722017,
             "language": "Java",
-            "last_commit": "2026-08-24T11:09:09Z",
+            "last_commit": "2026-08-26T07:51:18Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3814
+            "stars": 3815
           }
         },
         {
@@ -285,7 +285,7 @@
             "archived": false,
             "id": 256513079,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T08:05:33Z",
+            "last_commit": "2026-08-26T01:25:39Z",
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 241
@@ -411,10 +411,10 @@
             "archived": false,
             "id": 1725199,
             "language": "Ruby",
-            "last_commit": "2026-08-24T13:53:28Z",
+            "last_commit": "2026-08-26T10:29:11Z",
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13658
+            "stars": 13657
           }
         },
         {
@@ -492,10 +492,10 @@
             "archived": false,
             "id": 11457947,
             "language": "Java",
-            "last_commit": "2026-08-25T09:11:58Z",
+            "last_commit": "2026-08-26T12:33:37Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4140
+            "stars": 4143
           }
         },
         {
@@ -507,7 +507,7 @@
             "archived": false,
             "id": 38373338,
             "language": "Python",
-            "last_commit": "2026-08-25T08:48:37Z",
+            "last_commit": "2026-08-25T21:54:57Z",
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
             "stars": 2612
@@ -525,7 +525,7 @@
             "last_commit": "2026-07-28T07:58:20Z",
             "owner": "mono0926",
             "repo": "LicensePlist",
-            "stars": 2534
+            "stars": 2535
           }
         },
         {
@@ -537,10 +537,10 @@
             "archived": false,
             "id": 107540288,
             "language": "Kotlin",
-            "last_commit": "2026-08-25T12:46:26Z",
+            "last_commit": "2026-08-26T11:14:27Z",
             "owner": "oss-review-toolkit",
             "repo": "ort",
-            "stars": 2074
+            "stars": 2075
           }
         },
         {
@@ -555,7 +555,7 @@
             "last_commit": "2024-07-22T21:57:46Z",
             "owner": "pivotal",
             "repo": "LicenseFinder",
-            "stars": 1793
+            "stars": 1794
           }
         },
         {
@@ -567,7 +567,7 @@
             "archived": false,
             "id": 116995448,
             "language": "Haskell",
-            "last_commit": "2026-08-25T07:38:10Z",
+            "last_commit": "2026-08-26T02:06:28Z",
             "owner": "fossas",
             "repo": "fossa-cli",
             "stars": 1515
@@ -585,7 +585,7 @@
             "last_commit": "2026-08-09T18:35:54Z",
             "owner": "licensee",
             "repo": "licensed",
-            "stars": 1044
+            "stars": 1043
           }
         },
         {
@@ -695,7 +695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T13:09:14.362Z",
+    "last_updated": "2026-08-26T13:13:42.020Z",
     "original_repository": "todogroup/awesome-ospo",
     "original_repository_id": 75903395,
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
