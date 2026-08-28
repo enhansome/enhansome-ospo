@@ -16,7 +16,8 @@
             "owner": "imsky",
             "repo": "pull-review",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "noqcks",
             "repo": "pull-request-size",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "godaddy",
             "repo": "pullie",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "chef-boneyard",
             "repo": "sentinel",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         }
       ],
       "title": "Code Reviews"
@@ -81,8 +85,9 @@
             "last_commit": "2024-06-06T18:02:59Z",
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1532
-          }
+            "stars": 1534
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "linuxfoundation",
             "repo": "easycla",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "salesforce",
             "repo": "dr-cla",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         }
       ],
       "title": "Contributor License Agreements / Developer Certificate of Origins"
@@ -133,7 +140,8 @@
             "owner": "github-community-projects",
             "repo": "issue-metrics",
             "stars": 536
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "Netflix",
             "repo": "osstracker",
             "stars": 380
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -163,7 +172,8 @@
             "owner": "MeasureOSS",
             "repo": "Measure",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -178,7 +188,8 @@
             "owner": "SAP",
             "repo": "project-portal-for-innersource",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -189,11 +200,12 @@
             "archived": false,
             "id": 621207364,
             "language": "Shell",
-            "last_commit": "2026-08-27T18:33:04Z",
+            "last_commit": "2026-08-28T10:59:32Z",
             "owner": "cncf",
             "repo": "devstats",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "chaoss",
             "repo": "augur",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         }
       ],
       "title": "GitHub Metrics and Dashboards"
@@ -228,8 +241,9 @@
             "last_commit": "2026-08-26T18:20:28Z",
             "owner": "google",
             "repo": "copybara",
-            "stars": 3818
-          }
+            "stars": 3821
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -244,7 +258,8 @@
             "owner": "Netflix",
             "repo": "hubcommander",
             "stars": 1312
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -255,11 +270,12 @@
             "archived": false,
             "id": 46088926,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T04:59:42Z",
+            "last_commit": "2026-08-28T01:35:47Z",
             "owner": "microsoft",
             "repo": "opensource-management-portal",
             "stars": 530
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -274,7 +290,8 @@
             "owner": "genuinetools",
             "repo": "pepper",
             "stars": 356
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -285,11 +302,12 @@
             "archived": false,
             "id": 256513079,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:20:31Z",
+            "last_commit": "2026-08-28T14:27:50Z",
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 242
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "github-community-projects",
             "repo": "stale-repos",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "electron",
             "repo": "sheriff",
             "stars": 153
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "thundergolfer",
             "repo": "automated-github-organization-invites",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -349,7 +370,8 @@
             "owner": "grailbio",
             "repo": "grit",
             "stars": 64
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -364,7 +386,8 @@
             "owner": "bertvv",
             "repo": "github-org-mgmt",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -379,7 +402,8 @@
             "owner": "mozilla",
             "repo": "github-org-scripts",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -394,7 +418,8 @@
             "owner": "indeedeng",
             "repo": "Mariner-Issue-Collector",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         }
       ],
       "title": "GitHub Management"
@@ -414,8 +439,9 @@
             "last_commit": "2026-08-26T10:29:11Z",
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13657
-          }
+            "stars": 13661
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -430,7 +456,8 @@
             "owner": "todogroup",
             "repo": "repolinter",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -445,7 +472,8 @@
             "owner": "dogweather",
             "repo": "repo-health-check",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -460,7 +488,8 @@
             "owner": "SAP-archive",
             "repo": "fosstars-rating-core",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -475,7 +504,8 @@
             "owner": "twitter",
             "repo": "repo-scaffolding",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         }
       ],
       "title": "Project Quality"
@@ -492,11 +522,12 @@
             "archived": false,
             "id": 11457947,
             "language": "Java",
-            "last_commit": "2026-08-27T21:15:42Z",
+            "last_commit": "2026-08-28T11:55:22Z",
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4149
-          }
+            "stars": 4155
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -507,11 +538,12 @@
             "archived": false,
             "id": 38373338,
             "language": "Python",
-            "last_commit": "2026-08-27T16:08:43Z",
+            "last_commit": "2026-08-28T12:24:18Z",
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
             "stars": 2613
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -526,7 +558,8 @@
             "owner": "mono0926",
             "repo": "LicensePlist",
             "stars": 2535
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -537,11 +570,12 @@
             "archived": false,
             "id": 107540288,
             "language": "Kotlin",
-            "last_commit": "2026-08-27T21:43:13Z",
+            "last_commit": "2026-08-28T17:34:13Z",
             "owner": "oss-review-toolkit",
             "repo": "ort",
             "stars": 2076
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -555,8 +589,9 @@
             "last_commit": "2024-07-22T21:57:46Z",
             "owner": "pivotal",
             "repo": "LicenseFinder",
-            "stars": 1794
-          }
+            "stars": 1795
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -567,11 +602,12 @@
             "archived": false,
             "id": 116995448,
             "language": "Haskell",
-            "last_commit": "2026-08-27T19:08:12Z",
+            "last_commit": "2026-08-28T07:56:23Z",
             "owner": "fossas",
             "repo": "fossa-cli",
-            "stars": 1516
-          }
+            "stars": 1517
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -586,7 +622,8 @@
             "owner": "licensee",
             "repo": "licensed",
             "stars": 1043
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -600,8 +637,9 @@
             "last_commit": "2026-08-24T19:02:28Z",
             "owner": "licensee",
             "repo": "licensee",
-            "stars": 906
-          }
+            "stars": 907
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -616,7 +654,8 @@
             "owner": "google",
             "repo": "licenseclassifier",
             "stars": 348
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -631,7 +670,8 @@
             "owner": "jpeddicord",
             "repo": "askalono",
             "stars": 275
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         },
         {
           "node_type": "item",
@@ -646,7 +686,8 @@
             "owner": "daald",
             "repo": "dpkg-licenses",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         }
       ],
       "title": "Licensing"
@@ -667,7 +708,8 @@
             "owner": "zanata",
             "repo": "zanata-platform",
             "stars": 340
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         }
       ],
       "title": "Localization and Internationalization"
@@ -688,14 +730,15 @@
             "owner": "eclipse-steady",
             "repo": "steady",
             "stars": 547
-          }
+          },
+          "first_seen": "2026-08-28T22:15:25.762Z"
         }
       ],
       "title": "Security"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:13:37.811Z",
+    "last_updated": "2026-08-28T22:15:25.762Z",
     "original_repository_info": {
       "archived": false,
       "id": 75903395,
