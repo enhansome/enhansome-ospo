@@ -131,7 +131,7 @@
             "open_issues": 242,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1534,
+            "stars": 1535,
             "topics": [
               "angular",
               "cla",
@@ -302,7 +302,7 @@
             "id": 621207364,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T10:59:32Z",
+            "last_commit": "2026-08-29T07:17:45Z",
             "open_issues": 15,
             "owner": "cncf",
             "repo": "devstats",
@@ -458,11 +458,11 @@
             "id": 256513079,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T02:07:53Z",
-            "open_issues": 96,
+            "last_commit": "2026-08-29T14:33:53Z",
+            "open_issues": 97,
             "owner": "finos",
             "repo": "git-proxy",
-            "stars": 242,
+            "stars": 243,
             "topics": [
               "gitops",
               "scans",
@@ -660,7 +660,7 @@
             "open_issues": 225,
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13661,
+            "stars": 13664,
             "topics": [
               "language-grammars",
               "language-statistics",
@@ -784,11 +784,11 @@
             "id": 11457947,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T23:35:50Z",
-            "open_issues": 1090,
+            "last_commit": "2026-08-29T15:21:02Z",
+            "open_issues": 1086,
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4155,
+            "stars": 4156,
             "topics": [
               "appsec",
               "bill-of-materials",
@@ -992,7 +992,7 @@
             "open_issues": 4,
             "owner": "licensee",
             "repo": "licensed",
-            "stars": 1043,
+            "stars": 1044,
             "topics": [
               "dependencies",
               "license-management",
@@ -1018,7 +1018,7 @@
             "open_issues": 5,
             "owner": "licensee",
             "repo": "licensee",
-            "stars": 907,
+            "stars": 908,
             "topics": [
               "law",
               "legal",
@@ -1164,7 +1164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:13.297Z",
+    "last_updated": "2026-08-29T16:41:14.732Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools for managing open source programs",
