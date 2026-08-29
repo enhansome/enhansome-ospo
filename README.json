@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":white_check_mark: Assign pull request reviewers intelligently.",
+            "homepage": "https://pull-review.herokuapp.com",
             "id": 83502071,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-02T12:20:06Z",
+            "open_issues": 34,
             "owner": "imsky",
             "repo": "pull-review",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "github",
+              "hacktoberfest",
+              "hubot",
+              "pull-requests",
+              "review",
+              "slack"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -26,12 +38,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Applies labels to Pull Requests based on the total lines of code changed.",
+            "homepage": "https://github.com/marketplace/pull-request-size",
             "id": 155721197,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-17T22:01:52Z",
+            "open_issues": 15,
             "owner": "noqcks",
             "repo": "pull-request-size",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "github-app",
+              "probot",
+              "productivity",
+              "pull-requests"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -42,12 +64,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A GitHub bot that makes your PRs better",
+            "homepage": null,
             "id": 150498706,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-23T21:38:04Z",
+            "open_issues": 12,
             "owner": "godaddy",
             "repo": "pullie",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "bot",
+              "github",
+              "github-app",
+              "github-bot",
+              "githubapp",
+              "hacktoberfest",
+              "pull-request",
+              "pull-requests",
+              "pullrequest"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -58,12 +95,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Archived from habitat-sh/sentinel - The Sentinel Bot",
+            "homepage": null,
             "id": 68034464,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-01-15T19:57:53Z",
+            "open_issues": 0,
             "owner": "chef-boneyard",
             "repo": "sentinel",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         }
@@ -80,12 +122,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contributor License Agreement assistant (CLA assistant)",
+            "homepage": "https://cla-assistant.io",
             "id": 26210598,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-06T18:02:59Z",
+            "open_issues": 242,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1534
+            "stars": 1534,
+            "topics": [
+              "angular",
+              "cla",
+              "contributor-license-agreement",
+              "github",
+              "github-integration",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -96,12 +150,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 194341141,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-27T13:59:35Z",
+            "open_issues": 107,
             "owner": "linuxfoundation",
             "repo": "easycla",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -112,12 +171,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Contributor License Agreement Bot for Validating GitHub Pull Requests",
+            "homepage": null,
             "id": 44138060,
             "language": "Scala",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:02:08Z",
+            "open_issues": 0,
             "owner": "salesforce",
             "repo": "dr-cla",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "cla"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         }
@@ -134,12 +200,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gather metrics on issues/prs/discussions such as time to first response, count of issues opened, closed, etc.",
+            "homepage": "https://github.blog/2023-07-19-metrics-for-issues-pull-requests-and-discussions/",
             "id": 648340231,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T18:09:55Z",
+            "open_issues": 12,
             "owner": "github-community-projects",
             "repo": "issue-metrics",
-            "stars": 536
+            "stars": 536,
+            "topics": [
+              "actions",
+              "github-actions",
+              "hacktoberfest",
+              "issues",
+              "metrics",
+              "ospo",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -150,12 +229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github organization OSS metrics collector and metrics dashboard",
+            "homepage": null,
             "id": 51327281,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-10T11:29:28Z",
+            "open_issues": 18,
             "owner": "Netflix",
             "repo": "osstracker",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -166,12 +250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "At its core Measure is, for lack of a better term, a contributor relationship management system. Measure consists of easy to understand widgets that can be arbitrarily displayed to build dashboards. It allows you to understand how people as individuals and as organizations are interacting with open source projects on GitHub. It’s metrics that focus not only on code, but on contributors.",
+            "homepage": null,
             "id": 95562890,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-18T17:01:46Z",
+            "open_issues": 46,
             "owner": "MeasureOSS",
             "repo": "Measure",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -182,12 +271,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lists all InnerSource projects of a company in an interactive and easy to use way. Can be used as a template for implementing the \"InnerSource portal\" pattern by the InnerSource Commons community.",
+            "homepage": "https://sap.github.io/project-portal-for-innersource/",
             "id": 317539399,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T12:03:12Z",
+            "open_issues": 6,
             "owner": "SAP",
             "repo": "project-portal-for-innersource",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "inner-source",
+              "innersource",
+              "open-source",
+              "opensource"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -198,12 +297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📈CNCF-created tool for analyzing and graphing developer contributions",
+            "homepage": "https://devstats.cncf.io",
             "id": 621207364,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:59:32Z",
+            "open_issues": 15,
             "owner": "cncf",
             "repo": "devstats",
-            "stars": 128
+            "stars": 128,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -214,12 +318,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Augur project is no longer part of CHAOSS. Use CollectOSS instead!",
+            "homepage": null,
             "id": 1310035685,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-23T14:32:13Z",
+            "open_issues": 0,
             "owner": "chaoss",
             "repo": "augur",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         }
@@ -236,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copybara: A tool for transforming and moving code between repositories.",
+            "homepage": null,
             "id": 67722017,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T18:20:28Z",
+            "open_issues": 105,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3821
+            "stars": 3821,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -252,12 +366,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Slack bot for GitHub organization management -- and other things too",
+            "homepage": null,
             "id": 81116742,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-13T16:46:20Z",
+            "open_issues": 16,
             "owner": "Netflix",
             "repo": "hubcommander",
-            "stars": 1312
+            "stars": 1312,
+            "topics": [
+              "bot",
+              "chatops",
+              "github",
+              "privileges",
+              "python",
+              "security",
+              "slack",
+              "slack-bot",
+              "travis-ci"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -268,12 +397,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft's monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰",
+            "homepage": null,
             "id": 46088926,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T01:35:47Z",
+            "open_issues": 34,
             "owner": "microsoft",
             "repo": "opensource-management-portal",
-            "stars": 530
+            "stars": 530,
+            "topics": [
+              "github",
+              "github-app",
+              "management",
+              "microsoft",
+              "ospo",
+              "portal"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -284,12 +425,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tool for performing actions on GitHub repos or a single repo.",
+            "homepage": null,
             "id": 69827437,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-01-12T15:57:44Z",
+            "open_issues": 2,
             "owner": "genuinetools",
             "repo": "pepper",
-            "stars": 356
+            "stars": 356,
+            "topics": [
+              "cli",
+              "git",
+              "github",
+              "repo",
+              "repos",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -300,12 +453,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deploy custom push protections and policies on top of Git",
+            "homepage": "https://git-proxy.finos.org",
             "id": 256513079,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T14:27:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:07:53Z",
+            "open_issues": 96,
             "owner": "finos",
             "repo": "git-proxy",
-            "stars": 242
+            "stars": 242,
+            "topics": [
+              "gitops",
+              "scans",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -316,12 +478,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find stale repositories in a GitHub organization.",
+            "homepage": "https://github.blog/2023-06-05-announcing-the-stale-repos-action/",
             "id": 642585551,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T01:01:06Z",
+            "open_issues": 2,
             "owner": "github-community-projects",
             "repo": "stale-repos",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "actions",
+              "archive",
+              "github-action",
+              "hacktoberfest",
+              "ospo",
+              "python",
+              "stale"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -332,12 +507,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Controls and monitors organization permissions across GitHub, Slack and GSuite. Built with ❤️ by The Electron Team",
+            "homepage": null,
             "id": 255791819,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T02:29:43Z",
+            "open_issues": 7,
             "owner": "electron",
             "repo": "sheriff",
-            "stars": 153
+            "stars": 153,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -348,12 +528,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly host a webpage allowing people to click and receive an invite to your Github Organization.",
+            "homepage": null,
             "id": 80405376,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2023-03-16T10:00:00Z",
+            "open_issues": 9,
             "owner": "thundergolfer",
             "repo": "automated-github-organization-invites",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "github",
+              "github-api",
+              "github-extension",
+              "heroku",
+              "ruby",
+              "sinatra"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -364,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Grit is a tool to mirror monorepo subtrees to Github",
+            "homepage": null,
             "id": 157592315,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-16T23:15:52Z",
+            "open_issues": 2,
             "owner": "grailbio",
             "repo": "grit",
-            "stars": 64
+            "stars": 64,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -380,12 +577,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts for automating Github organisation management, e.g. creating teams with a repo and adding members.",
+            "homepage": null,
             "id": 28887768,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2021-11-15T06:58:04Z",
+            "open_issues": 4,
             "owner": "bertvv",
             "repo": "github-org-mgmt",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -396,12 +598,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "INACTIVE - Some helper scripts to manage github orgs via API.",
+            "homepage": null,
             "id": 28990032,
             "language": "Jupyter Notebook",
+            "license": "MPL-2.0",
             "last_commit": "2025-05-03T21:20:29Z",
+            "open_issues": 0,
             "owner": "mozilla",
             "repo": "github-org-scripts",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "inactive",
+              "unmaintained"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -412,12 +622,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Mariner Issue Collector helps you identify freshly opened issues across all open source projects you care about. Use Mariner to help you identify contribution opportunities in your open source dependencies! ",
+            "homepage": null,
             "id": 299801061,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-14T16:02:18Z",
+            "open_issues": 7,
             "owner": "indeedeng",
             "repo": "Mariner-Issue-Collector",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         }
@@ -434,12 +651,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+            "homepage": null,
             "id": 1725199,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-26T10:29:11Z",
+            "open_issues": 225,
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13661
+            "stars": 13661,
+            "topics": [
+              "language-grammars",
+              "language-statistics",
+              "linguistic",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -450,12 +677,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Repolinter, The Open Source Repository Linter",
+            "homepage": "https://todogroup.github.io/repolinter/",
             "id": 94138426,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-06T16:05:36Z",
+            "open_issues": 32,
             "owner": "todogroup",
             "repo": "repolinter",
-            "stars": 465
+            "stars": 465,
+            "topics": [
+              "github",
+              "javascript",
+              "linter"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -466,12 +702,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyze a project: How are the maintainers doing?",
+            "homepage": "https://repocheck.com",
             "id": 32483705,
             "language": "CoffeeScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-07T19:00:31Z",
+            "open_issues": 16,
             "owner": "dogweather",
             "repo": "repo-health-check",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -482,12 +723,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A framework for defining ratings for open source projects. In particular, the framework offers a security rating for open source projects that may be used to assess the security risk that comes with open source components.",
+            "homepage": "https://sap-archive.github.io/fosstars-rating-core/",
             "id": 236462734,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:03:06Z",
+            "open_issues": 93,
             "owner": "SAP-archive",
             "repo": "fosstars-rating-core",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "calculating-ratings",
+              "java",
+              "scores",
+              "security",
+              "security-rating",
+              "security-risks",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -498,12 +752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tools for creating repos based on open source standards and best practices",
+            "homepage": null,
             "id": 136096407,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2021-08-17T17:58:52Z",
+            "open_issues": 1,
             "owner": "twitter",
             "repo": "repo-scaffolding",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         }
@@ -520,12 +779,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.",
+            "homepage": "https://dependencytrack.org/",
             "id": 11457947,
             "language": "Java",
-            "last_commit": "2026-08-28T11:55:22Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T23:35:50Z",
+            "open_issues": 1090,
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4155
+            "stars": 4155,
+            "topics": [
+              "appsec",
+              "bill-of-materials",
+              "bom",
+              "component-analysis",
+              "cyclonedx",
+              "devsecops",
+              "hacktoberfest",
+              "nvd",
+              "ossindex",
+              "owasp",
+              "package-url",
+              "purl",
+              "sbom",
+              "sca",
+              "security",
+              "security-automation",
+              "software-composition-analysis",
+              "software-security",
+              "vulnerabilities",
+              "vulnerability-detection"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -536,12 +821,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":mag: ScanCode detects licenses, copyrights, dependencies by \"scanning code\" ... to discover and inventory open source and third-party packages used in your code. Sponsored by NLnet, the Google Summer of Code, Azure credits, nexB and other generous sponsors!",
+            "homepage": "https://scancode-toolkit.readthedocs.io/",
             "id": 38373338,
             "language": "Python",
-            "last_commit": "2026-08-28T12:24:18Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:43:07Z",
+            "open_issues": 1675,
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2613
+            "stars": 2613,
+            "topics": [
+              "copyright",
+              "copyright-scan",
+              "cyclonedx",
+              "dependencies",
+              "dependency-graph",
+              "license",
+              "license-checking",
+              "license-scan",
+              "licensing",
+              "open-source-licensing",
+              "oss-compliance",
+              "package-url",
+              "packages",
+              "provenance",
+              "purl",
+              "sbom",
+              "sca",
+              "software-composition-analysis",
+              "spdx",
+              "spdx-licenses"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -552,12 +863,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A license list generator of all your dependencies for iOS applications",
+            "homepage": "https://www.slideshare.net/mono0926/licenseplist-a-license-list-generator-of-all-your-dependencies-for-ios-applications",
             "id": 89676988,
             "language": "Swift",
+            "license": "MIT",
             "last_commit": "2026-07-28T07:58:20Z",
+            "open_issues": 41,
             "owner": "mono0926",
             "repo": "LicensePlist",
-            "stars": 2535
+            "stars": 2535,
+            "topics": [
+              "automation",
+              "cli",
+              "commandline",
+              "ios",
+              "license",
+              "license-management",
+              "licenses",
+              "productivity",
+              "settings",
+              "swift-package-manager",
+              "xcode"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -568,12 +896,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A suite of tools to automate software compliance checks.",
+            "homepage": "https://oss-review-toolkit.org",
             "id": 107540288,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:34:13Z",
+            "open_issues": 322,
             "owner": "oss-review-toolkit",
             "repo": "ort",
-            "stars": 2076
+            "stars": 2076,
+            "topics": [
+              "compliance",
+              "copyright",
+              "cra",
+              "cyclonedx",
+              "dependencies",
+              "dependency-graph",
+              "dora",
+              "hacktoberfest",
+              "license",
+              "license-management",
+              "open-source-licensing",
+              "ospo",
+              "oss-compliance",
+              "package-manager",
+              "sbom",
+              "sbom-generator",
+              "sca",
+              "spdx"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -584,12 +936,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find licenses for your project's dependencies.",
+            "homepage": null,
             "id": 1262785,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2024-07-22T21:57:46Z",
+            "open_issues": 149,
             "owner": "pivotal",
             "repo": "LicenseFinder",
-            "stars": 1795
+            "stars": 1795,
+            "topics": [
+              "ruby"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -600,12 +959,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, portable and reliable dependency analysis for any codebase.  Supports license & vulnerability scanning for large monoliths.  Language-agnostic; integrates with 20+ build systems.",
+            "homepage": "https://fossa.com",
             "id": 116995448,
             "language": "Haskell",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T07:56:23Z",
+            "open_issues": 11,
             "owner": "fossas",
             "repo": "fossa-cli",
-            "stars": 1517
+            "stars": 1517,
+            "topics": [
+              "open-source-licensing",
+              "open-source-vulnerabilities"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -616,12 +983,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby gem to cache and verify the licenses of dependencies",
+            "homepage": null,
             "id": 120039636,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-09T18:35:54Z",
+            "open_issues": 4,
             "owner": "licensee",
             "repo": "licensed",
-            "stars": 1043
+            "stars": 1043,
+            "topics": [
+              "dependencies",
+              "license-management",
+              "licensing",
+              "open-source-licensing"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -632,12 +1009,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Ruby Gem to detect under what license a project is distributed.",
+            "homepage": "https://licensee.github.io/licensee/",
             "id": 23022377,
             "language": "Ruby",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:02:28Z",
+            "open_issues": 5,
             "owner": "licensee",
             "repo": "licensee",
-            "stars": 907
+            "stars": 907,
+            "topics": [
+              "law",
+              "legal",
+              "licensing",
+              "open-source",
+              "open-source-licensing",
+              "ruby",
+              "ruby-gem"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -648,12 +1038,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A License Classifier",
+            "homepage": null,
             "id": 87763861,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-18T19:37:39Z",
+            "open_issues": 19,
             "owner": "google",
             "repo": "licenseclassifier",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "classifier",
+              "google",
+              "license-management"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -664,12 +1063,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "this project is no longer being maintained. forks are welcome under the original license terms.",
+            "homepage": null,
             "id": 116440794,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-22T03:21:48Z",
+            "open_issues": 18,
             "owner": "jpeddicord",
             "repo": "askalono",
-            "stars": 275
+            "stars": 275,
+            "topics": [
+              "licensing",
+              "open-source-licensing",
+              "open-source-tooling"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         },
@@ -680,12 +1088,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu)",
+            "homepage": null,
             "id": 51371726,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-13T13:55:19Z",
+            "open_issues": 5,
             "owner": "daald",
             "repo": "dpkg-licenses",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         }
@@ -702,12 +1115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zanata is a web-based system for translators to translate documentation and software online using a web browser.",
+            "homepage": "http://zanata.org/",
             "id": 71434550,
             "language": "Java",
+            "license": "LGPL-2.1",
             "last_commit": "2025-09-22T23:26:30Z",
+            "open_issues": 71,
             "owner": "zanata",
             "repo": "zanata-platform",
-            "stars": 340
+            "stars": 340,
+            "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         }
@@ -724,12 +1142,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Analyses your Java applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://eclipse.github.io/steady/",
+            "homepage": null,
             "id": 145424401,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-04T20:14:04Z",
+            "open_issues": 19,
             "owner": "eclipse-steady",
             "repo": "steady",
-            "stars": 547
+            "stars": 547,
+            "topics": [
+              "open-source",
+              "security-tools"
+            ]
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
         }
@@ -738,15 +1164,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T22:15:25.762Z",
+    "last_updated": "2026-08-29T04:41:13.297Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome tools for managing open source programs",
+      "homepage": "https://todogroup.org",
       "id": 75903395,
       "language": null,
+      "license": "CC-BY-SA-4.0",
       "last_commit": "2026-08-03T01:05:17Z",
+      "open_issues": 14,
       "owner": "todogroup",
       "repo": "awesome-ospo",
-      "stars": 505
+      "stars": 505,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "opensource",
+        "todogroup"
+      ]
     },
     "original_repository_sha": "d99f6c794d33434a57ce5b61d792a254313bc70a",
     "enhanced_repository": "enhansome/enhansome-ospo",

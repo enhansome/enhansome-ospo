@@ -31,7 +31,7 @@ CI/CD platforms and tools.
 CLA and DCO management tools.
 
 * [CLA Assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,534 | 🐛 242 | 🌐 JavaScript | 📅 2024-06-06 - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
-* [EasyCLA](https://github.com/linuxfoundation/easycla) ⭐ 80 | 🐛 105 | 🌐 Go | 📅 2026-08-27 - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
+* [EasyCLA](https://github.com/linuxfoundation/easycla) ⭐ 80 | 🐛 107 | 🌐 Go | 📅 2026-08-27 - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
 * [Dr CLA](https://github.com/salesforce/dr-cla) ⭐ 21 | 🐛 0 | 🌐 Scala | 📅 2026-06-02 - GitHub bot for dealing with Contributor License Agreements.
 * [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests.
 
@@ -55,7 +55,7 @@ Tools for managing GitHub organizations and repositories.
 * [hubcommander](https://github.com/Netflix/hubcommander) ⭐ 1,312 | 🐛 16 | 🌐 Python | 📅 2026-04-13 - A Slack bot for GitHub organization management.
 * [opensource-management-portal](https://github.com/microsoft/opensource-management-portal) ⭐ 530 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-28 - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 * [Pepper](https://github.com/genuinetools/pepper) ⭐ 356 | 🐛 2 | 🌐 Go | 📅 2023-01-12 - A tool for performing actions on GitHub repos or a single repo.
-* [(Corporate) Git Proxy](https://github.com/finos/git-proxy) ⭐ 242 | 🐛 96 | 🌐 TypeScript | 📅 2026-08-28 - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
+* [(Corporate) Git Proxy](https://github.com/finos/git-proxy) ⭐ 242 | 🐛 96 | 🌐 TypeScript | 📅 2026-08-29 - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
 * [Stale Repos Action](https://github.com/github/stale-repos) ⭐ 202 | 🐛 2 | 🌐 Python | 📅 2026-08-27 - Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.
 * [Sheriff](https://github.com/electron/sheriff) ⭐ 153 | 🐛 7 | 🌐 TypeScript | 📅 2026-08-21 - Controls and monitors organization permissions across GitHub, Slack and GSuite.
 * [Automated GitHub Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) ⭐ 108 | 🐛 9 | 🌐 Ruby | 📅 2023-03-16 - Host a webpage to allow people to click and receive an invite to your GitHub Organization.
@@ -95,7 +95,7 @@ Tools/frameworks for managing software supply chain security.
 
 Tools for managing and tracking open source licenses.
 
-* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,155 | 🐛 1,086 | 🌐 Java | 📅 2026-08-28 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,155 | 🐛 1,090 | 🌐 Java | 📅 2026-08-28 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,613 | 🐛 1,675 | 🌐 Python | 📅 2026-08-28 - Scan code for licenses, copyright and dependencies.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) ⭐ 2,535 | 🐛 41 | 🌐 Swift | 📅 2026-07-28 - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.
 * [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,076 | 🐛 322 | 🌐 Kotlin | 📅 2026-08-28 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
@@ -151,4 +151,4 @@ The following organizations have formal or informal programs for offering in-kin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
