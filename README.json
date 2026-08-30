@@ -128,7 +128,7 @@
             "language": "JavaScript",
             "license": "Apache-2.0",
             "last_commit": "2024-06-06T18:02:59Z",
-            "open_issues": 242,
+            "open_issues": 248,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
             "stars": 1535,
@@ -458,7 +458,7 @@
             "id": 256513079,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T14:33:53Z",
+            "last_commit": "2026-08-30T09:44:23Z",
             "open_issues": 97,
             "owner": "finos",
             "repo": "git-proxy",
@@ -660,7 +660,7 @@
             "open_issues": 225,
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13664,
+            "stars": 13667,
             "topics": [
               "language-grammars",
               "language-statistics",
@@ -785,10 +785,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-08-29T15:21:02Z",
-            "open_issues": 1086,
+            "open_issues": 1087,
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4156,
+            "stars": 4157,
             "topics": [
               "appsec",
               "bill-of-materials",
@@ -830,7 +830,7 @@
             "open_issues": 1675,
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2613,
+            "stars": 2614,
             "topics": [
               "copyright",
               "copyright-scan",
@@ -992,7 +992,7 @@
             "open_issues": 4,
             "owner": "licensee",
             "repo": "licensed",
-            "stars": 1044,
+            "stars": 1045,
             "topics": [
               "dependencies",
               "license-management",
@@ -1018,7 +1018,7 @@
             "open_issues": 5,
             "owner": "licensee",
             "repo": "licensee",
-            "stars": 908,
+            "stars": 909,
             "topics": [
               "law",
               "legal",
@@ -1164,7 +1164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T16:41:14.732Z",
+    "last_updated": "2026-08-30T16:37:54.788Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools for managing open source programs",
