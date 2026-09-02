@@ -155,8 +155,8 @@
             "id": 194341141,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T12:57:30Z",
-            "open_issues": 111,
+            "last_commit": "2026-09-02T15:53:30Z",
+            "open_issues": 104,
             "owner": "linuxfoundation",
             "repo": "easycla",
             "stars": 80,
@@ -350,11 +350,11 @@
             "id": 67722017,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T11:07:09Z",
+            "last_commit": "2026-09-02T15:29:16Z",
             "open_issues": 105,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3823,
+            "stars": 3824,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
@@ -375,7 +375,7 @@
             "open_issues": 16,
             "owner": "Netflix",
             "repo": "hubcommander",
-            "stars": 1312,
+            "stars": 1313,
             "topics": [
               "bot",
               "chatops",
@@ -406,7 +406,7 @@
             "open_issues": 33,
             "owner": "microsoft",
             "repo": "opensource-management-portal",
-            "stars": 530,
+            "stars": 531,
             "topics": [
               "github",
               "github-app",
@@ -458,8 +458,8 @@
             "id": 256513079,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T12:21:58Z",
-            "open_issues": 98,
+            "last_commit": "2026-09-02T08:10:43Z",
+            "open_issues": 95,
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 244,
@@ -660,7 +660,7 @@
             "open_issues": 228,
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13671,
+            "stars": 13672,
             "topics": [
               "language-grammars",
               "language-statistics",
@@ -784,11 +784,11 @@
             "id": 11457947,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T11:43:00Z",
-            "open_issues": 1082,
+            "last_commit": "2026-09-02T10:56:38Z",
+            "open_issues": 1080,
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4165,
+            "stars": 4170,
             "topics": [
               "appsec",
               "bill-of-materials",
@@ -830,7 +830,7 @@
             "open_issues": 1677,
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2615,
+            "stars": 2616,
             "topics": [
               "copyright",
               "copyright-scan",
@@ -901,7 +901,7 @@
             "id": 107540288,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T16:28:49Z",
+            "last_commit": "2026-09-02T16:18:41Z",
             "open_issues": 327,
             "owner": "oss-review-toolkit",
             "repo": "ort",
@@ -964,11 +964,11 @@
             "id": 116995448,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T18:53:34Z",
-            "open_issues": 11,
+            "last_commit": "2026-09-02T14:40:51Z",
+            "open_issues": 13,
             "owner": "fossas",
             "repo": "fossa-cli",
-            "stars": 1516,
+            "stars": 1517,
             "topics": [
               "open-source-licensing",
               "open-source-vulnerabilities"
@@ -1018,7 +1018,7 @@
             "open_issues": 7,
             "owner": "licensee",
             "repo": "licensee",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "law",
               "legal",
@@ -1164,7 +1164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T16:35:35.648Z",
+    "last_updated": "2026-09-02T16:31:33.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools for managing open source programs",
