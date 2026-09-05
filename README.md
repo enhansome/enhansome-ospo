@@ -31,7 +31,7 @@ CI/CD platforms and tools.
 CLA and DCO management tools.
 
 * [CLA Assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,535 | 🐛 248 | 🌐 JavaScript | 📅 2024-06-06 - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
-* [EasyCLA](https://github.com/linuxfoundation/easycla) ⭐ 80 | 🐛 108 | 🌐 Go | 📅 2026-09-04 - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
+* [EasyCLA](https://github.com/linuxfoundation/easycla) ⭐ 80 | 🐛 108 | 🌐 Go | 📅 2026-09-05 - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
 * [Dr CLA](https://github.com/salesforce/dr-cla) ⭐ 21 | 🐛 0 | 🌐 Scala | 📅 2026-06-02 - GitHub bot for dealing with Contributor License Agreements.
 * [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests.
 
@@ -39,7 +39,7 @@ CLA and DCO management tools.
 
 Tools for tracking and visualizing GitHub activity.
 
-* [Issue/PR/Discussion Metrics](https://github.com/github/issue-metrics) ⭐ 537 | 🐛 10 | 🌐 Python | 📅 2026-09-03 - A GitHub Action that searches for pull requests/issues/discussions in a repository or organization and measures several available metrics like time to close and time to first response. It calculates the metrics and writes the metrics to a Markdown file. The issues/pull requests/discussions can be filtered by using a search query.
+* [Issue/PR/Discussion Metrics](https://github.com/github/issue-metrics) ⭐ 538 | 🐛 10 | 🌐 Python | 📅 2026-09-03 - A GitHub Action that searches for pull requests/issues/discussions in a repository or organization and measures several available metrics like time to close and time to first response. It calculates the metrics and writes the metrics to a Markdown file. The issues/pull requests/discussions can be filtered by using a search query.
 * [osstracker](https://github.com/Netflix/osstracker) ⭐ 380 | 🐛 18 | 🌐 Scala | 📅 2024-03-10 - An application that collects information about a GitHub organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
 * [MeasureOSS](https://github.com/MeasureOSS/Measure) ⭐ 160 | 🐛 46 | 🌐 JavaScript | 📅 2023-04-18 - A contributor relationship management system.
 * [Project Portal](https://github.com/SAP/project-portal-for-innersource) ⭐ 155 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-17 - Lists all InnerSource (or Open Source) projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
@@ -51,7 +51,7 @@ Tools for tracking and visualizing GitHub activity.
 
 Tools for managing GitHub organizations and repositories.
 
-* [Copybara](https://github.com/google/copybara) ⭐ 3,826 | 🐛 105 | 🌐 Java | 📅 2026-09-03 - A tool for transforming and moving code between repositories.
+* [Copybara](https://github.com/google/copybara) ⭐ 3,827 | 🐛 105 | 🌐 Java | 📅 2026-09-04 - A tool for transforming and moving code between repositories.
 * [hubcommander](https://github.com/Netflix/hubcommander) ⭐ 1,313 | 🐛 16 | 🌐 Python | 📅 2026-04-13 - A Slack bot for GitHub organization management.
 * [opensource-management-portal](https://github.com/microsoft/opensource-management-portal) ⭐ 531 | 🐛 35 | 🌐 TypeScript | 📅 2026-09-04 - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 * [Pepper](https://github.com/genuinetools/pepper) ⭐ 356 | 🐛 2 | 🌐 Go | 📅 2023-01-12 - A tool for performing actions on GitHub repos or a single repo.
@@ -72,13 +72,13 @@ Tools for managing GitHub organizations and repositories.
 
 Tools for project governance and community management.
 
-* [Minimal Viable Governance](https://github.com/github/MVG) ⭐ 418 | 🐛 12 | 📅 2024-06-06 - Currently in beta - is a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems. It provides an overall two-tier organizational governance structure for a set of free and open source projects.
+* [Minimal Viable Governance](https://github.com/github/MVG) ⭐ 419 | 🐛 12 | 📅 2024-06-06 - Currently in beta - is a repository-based approach for putting lightweight governance into free and open source projects that are run in version control systems. It provides an overall two-tier organizational governance structure for a set of free and open source projects.
 
 ## Project Quality
 
 Tools for assessing and improving project quality.
 
-* [Linguist](https://github.com/github-linguist/linguist) ⭐ 13,677 | 🐛 226 | 🌐 Ruby | 📅 2026-09-04 - Identify the programming languages used in a project.
+* [Linguist](https://github.com/github-linguist/linguist) ⭐ 13,677 | 🐛 227 | 🌐 Ruby | 📅 2026-09-05 - Identify the programming languages used in a project.
 * [RepoLinter](https://github.com/todogroup/repolinter) ⚠️ Archived - Lint open source repositories for common issues.
 * [Repo Health Check](https://github.com/dogweather/repo-health-check) ⭐ 86 | 🐛 16 | 🌐 CoffeeScript | 📅 2024-06-07 - Analyze a project: How are the maintainers doing?
 * [Fosstars](https://github.com/SAP/fosstars-rating-core) ⚠️ Archived - A framework for defining and calculating ratings for open source projects.
@@ -95,14 +95,14 @@ Tools/frameworks for managing software supply chain security.
 
 Tools for managing and tracking open source licenses.
 
-* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,172 | 🐛 1,082 | 🌐 Java | 📅 2026-09-04 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,175 | 🐛 1,083 | 🌐 Java | 📅 2026-09-04 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,617 | 🐛 1,680 | 🌐 Python | 📅 2026-09-04 - Scan code for licenses, copyright and dependencies.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) ⭐ 2,534 | 🐛 41 | 🌐 Swift | 📅 2026-07-28 - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,079 | 🐛 328 | 🌐 Kotlin | 📅 2026-09-04 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,080 | 🐛 330 | 🌐 Kotlin | 📅 2026-09-05 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
 * [LicenseFinder](https://github.com/pivotal/LicenseFinder) ⭐ 1,795 | 🐛 149 | 🌐 Ruby | 📅 2024-07-22 - Find licenses for your project's dependencies.
-* [fossa-cli](https://github.com/fossas/fossa-cli) ⭐ 1,517 | 🐛 16 | 🌐 Haskell | 📅 2026-09-03 - Fast, portable and reliable dependency analysis for any codebase.
+* [fossa-cli](https://github.com/fossas/fossa-cli) ⭐ 1,517 | 🐛 19 | 🌐 Haskell | 📅 2026-09-05 - Fast, portable and reliable dependency analysis for any codebase.
 * [Licensed](https://github.com/licensee/licensed) ⭐ 1,046 | 🐛 4 | 🌐 Ruby | 📅 2026-08-09 - A Ruby gem to cache and verify the licenses of dependencies.
-* [Licensee](https://github.com/licensee/licensee) ⭐ 911 | 🐛 7 | 🌐 Ruby | 📅 2026-08-31 - Identify a project's license file.
+* [Licensee](https://github.com/licensee/licensee) ⭐ 912 | 🐛 7 | 🌐 Ruby | 📅 2026-08-31 - Identify a project's license file.
 * [License Classifier](https://github.com/google/licenseclassifier) ⭐ 348 | 🐛 18 | 🌐 Go | 📅 2026-02-18 - A library and set of tools that can analyze text to determine what type of license it contains.
 * [askalono](https://github.com/jpeddicord/askalono) ⚠️ Archived - A library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.
 * [dpkg-licenses](https://github.com/daald/dpkg-licenses) ⭐ 177 | 🐛 5 | 🌐 Shell | 📅 2023-10-13 - A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu).
@@ -134,7 +134,7 @@ Tools for creating and managing project websites and documentation.
 
 Security scanning and vulnerability management tools.
 
-* [DefectDojo](https://github.com/defectdojo/django-defectdojo) ⭐ 4,923 | 🐛 218 | 🌐 HTML | 📅 2026-09-04 - An OWASP flagship DevSecOps platform that streamlines the vulnerability management lifecycle by importing findings from 200+ security scanning tools, deduplicating them, and tracking remediation across products and engagements.
+* [DefectDojo](https://github.com/defectdojo/django-defectdojo) ⭐ 4,925 | 🐛 217 | 🌐 HTML | 📅 2026-09-05 - An OWASP flagship DevSecOps platform that streamlines the vulnerability management lifecycle by importing findings from 200+ security scanning tools, deduplicating them, and tracking remediation across products and engagements.
 * [Eclipse Steady](https://github.com/eclipse-steady/steady) ⭐ 547 | 🐛 19 | 🌐 Java | 📅 2023-12-04 - Helps to discover, assess and mitigate known vulnerabilities in Java and Python projects. Formerly known as "Vulnerability Assessement Tool" (Vulas).
 
 ## In-Kind Donations
@@ -152,4 +152,4 @@ The following organizations have formal or informal programs for offering in-kin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
