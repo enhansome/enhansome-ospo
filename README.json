@@ -354,7 +354,7 @@
             "open_issues": 105,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3866,
+            "stars": 3867,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
@@ -458,8 +458,8 @@
             "id": 256513079,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:39:32Z",
-            "open_issues": 97,
+            "last_commit": "2026-10-03T14:34:38Z",
+            "open_issues": 95,
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 254,
@@ -657,10 +657,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-09-29T08:59:44Z",
-            "open_issues": 234,
+            "open_issues": 235,
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13715,
+            "stars": 13717,
             "topics": [
               "language-grammars",
               "language-statistics",
@@ -784,8 +784,8 @@
             "id": 11457947,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T08:08:39Z",
-            "open_issues": 1051,
+            "last_commit": "2026-10-03T14:44:27Z",
+            "open_issues": 1045,
             "owner": "DependencyTrack",
             "repo": "dependency-track",
             "stars": 4257,
@@ -968,7 +968,7 @@
             "open_issues": 17,
             "owner": "fossas",
             "repo": "fossa-cli",
-            "stars": 1520,
+            "stars": 1521,
             "topics": [
               "open-source-licensing",
               "open-source-vulnerabilities"
@@ -1125,8 +1125,8 @@
             "id": 31028375,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T04:25:51Z",
-            "open_issues": 233,
+            "last_commit": "2026-10-03T12:31:52Z",
+            "open_issues": 236,
             "owner": "DefectDojo",
             "repo": "django-DefectDojo",
             "stars": 4975,
@@ -1179,7 +1179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:03:13.701Z",
+    "last_updated": "2026-10-03T16:13:21.538Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools for managing open source programs",
