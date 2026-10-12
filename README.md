@@ -8,7 +8,7 @@ members or found helpful for managing open source projects and offices.
 Tools for managing and automating code review processes.
 
 * [pull-review](https://github.com/imsky/pull-review) ⭐ 210 | 🐛 34 | 🌐 JavaScript | 📅 2023-03-02 - Assign pull request reviewers intelligently, inspired by mention-bot.
-* [pull-request-size](https://github.com/noqcks/pull-request-size) ⭐ 177 | 🐛 16 | 🌐 JavaScript | 📅 2026-07-17 - Automatically adds GitHub labels based on the size of a pull request.
+* [pull-request-size](https://github.com/noqcks/pull-request-size) ⭐ 177 | 🐛 17 | 🌐 JavaScript | 📅 2026-07-17 - Automatically adds GitHub labels based on the size of a pull request.
 * [Pullie](https://github.com/godaddy/pullie) ⚠️ Archived - GitHub App that helps with pull requests (requests reviews, links Jira tickets, reminds users about missing required file changes e.g., changelog entries).
 * [sentinel](https://github.com/habitat-sh/sentinel) ⚠️ Archived - PR Test, review, and merge workflow bot.
 * [PullApprove](https://www.pullapprove.com) - Allows for fancier rules on how pull requests are approved.
@@ -31,7 +31,7 @@ CI/CD platforms and tools.
 CLA and DCO management tools.
 
 * [CLA Assistant](https://github.com/cla-assistant/cla-assistant) ⭐ 1,545 | 🐛 249 | 🌐 JavaScript | 📅 2024-06-06 - Streamline your workflow and let CLA assistant handle the legal side of contributions to a repository for you. CLA assistant enables contributors to sign CLAs from within a pull request.
-* [EasyCLA](https://github.com/linuxfoundation/easycla) ⭐ 80 | 🐛 103 | 🌐 Go | 📅 2026-10-09 - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
+* [EasyCLA](https://github.com/linuxfoundation/easycla) ⭐ 80 | 🐛 103 | 🌐 Go | 📅 2026-10-12 - A Contributor License Agreement (CLA) service used in the Linux Foundation's LFX platform which lets project contributors read, sign, and submit contributor license agreements easily.
 * [Dr CLA](https://github.com/salesforce/dr-cla) ⭐ 21 | 🐛 0 | 🌐 Scala | 📅 2026-06-02 - GitHub bot for dealing with Contributor License Agreements.
 * [DCO Bot](https://github.com/apps/dco) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests.
 
@@ -43,7 +43,7 @@ Tools for tracking and visualizing GitHub activity.
 * [osstracker](https://github.com/Netflix/osstracker) ⭐ 380 | 🐛 18 | 🌐 Scala | 📅 2024-03-10 - An application that collects information about a GitHub organization and aggregates the data across all projects within that organization into a single user interface to be used by various roles within the owning organization.
 * [MeasureOSS](https://github.com/MeasureOSS/Measure) ⭐ 161 | 🐛 46 | 🌐 JavaScript | 📅 2023-04-18 - A contributor relationship management system.
 * [Project Portal](https://github.com/SAP/project-portal-for-innersource) ⭐ 155 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-17 - Lists all InnerSource (or Open Source) projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
-* [devstats](https://github.com/cncf/devstats) ⭐ 130 | 🐛 13 | 🌐 Shell | 📅 2026-10-09 - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes.
+* [devstats](https://github.com/cncf/devstats) ⭐ 130 | 🐛 12 | 🌐 Shell | 📅 2026-10-12 - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes.
 * [Augur](https://github.com/chaoss/augur) ⚠️ Archived - A software suite for collecting and measuring structured data about OSS communities.
 * [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation.
 
@@ -51,14 +51,14 @@ Tools for tracking and visualizing GitHub activity.
 
 Tools for managing GitHub organizations and repositories.
 
-* [Copybara](https://github.com/google/copybara) ⭐ 3,874 | 🐛 105 | 🌐 Java | 📅 2026-10-09 - A tool for transforming and moving code between repositories.
-* [hubcommander](https://github.com/Netflix/hubcommander) ⭐ 1,317 | 🐛 16 | 🌐 Python | 📅 2026-04-13 - A Slack bot for GitHub organization management.
+* [Copybara](https://github.com/google/copybara) ⭐ 3,879 | 🐛 106 | 🌐 Java | 📅 2026-10-12 - A tool for transforming and moving code between repositories.
+* [hubcommander](https://github.com/Netflix/hubcommander) ⭐ 1,318 | 🐛 16 | 🌐 Python | 📅 2026-04-13 - A Slack bot for GitHub organization management.
 * [opensource-management-portal](https://github.com/microsoft/opensource-management-portal) ⭐ 534 | 🐛 35 | 🌐 TypeScript | 📅 2026-10-11 - Microsoft's Open Source Portal for GitHub is a tool to help large organizations with GitHub management operations, onboarding and more. It is implemented in Node.js.
 * [Pepper](https://github.com/genuinetools/pepper) ⭐ 356 | 🐛 2 | 🌐 Go | 📅 2023-01-12 - A tool for performing actions on GitHub repos or a single repo.
-* [(Corporate) Git Proxy](https://github.com/finos/git-proxy) ⭐ 256 | 🐛 96 | 🌐 TypeScript | 📅 2026-10-11 - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
+* [(Corporate) Git Proxy](https://github.com/finos/git-proxy) ⭐ 257 | 🐛 95 | 🌐 TypeScript | 📅 2026-10-12 - Scan outgoing attempts to push to public repository and raise compliance/info-sec friendly checks before allowing the push to complete.
 * [Stale Repos Action](https://github.com/github/stale-repos) ⭐ 205 | 🐛 1 | 🌐 Python | 📅 2026-10-08 - Get a regular report of inactive repositories in your organization so that you can choose to archive or revive.
 * [Sheriff](https://github.com/electron/sheriff) ⭐ 153 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-10 - Controls and monitors organization permissions across GitHub, Slack and GSuite.
-* [Automated GitHub Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) ⭐ 108 | 🐛 9 | 🌐 Ruby | 📅 2023-03-16 - Host a webpage to allow people to click and receive an invite to your GitHub Organization.
+* [Automated GitHub Organization Invites](https://github.com/thundergolfer/automated-github-organization-invites) ⭐ 109 | 🐛 9 | 🌐 Ruby | 📅 2023-03-16 - Host a webpage to allow people to click and receive an invite to your GitHub Organization.
 * [Grit](https://github.com/grailbio/grit) ⭐ 64 | 🐛 2 | 🌐 Go | 📅 2023-04-16 - A tool to mirror monorepo subtrees to GitHub.
 * [github-org-mgmt](https://github.com/bertvv/github-org-mgmt) ⭐ 48 | 🐛 4 | 🌐 Python | 📅 2021-11-15 - A few scripts for managing a GitHub organization.
 * [github-org-scripts](https://github.com/mozilla/github-org-scripts) ⚠️ Archived - Some helper scripts to manage GitHub organizations via API.
@@ -78,7 +78,7 @@ Tools for project governance and community management.
 
 Tools for assessing and improving project quality.
 
-* [Linguist](https://github.com/github-linguist/linguist) ⭐ 13,728 | 🐛 242 | 🌐 Ruby | 📅 2026-10-08 - Identify the programming languages used in a project.
+* [Linguist](https://github.com/github-linguist/linguist) ⭐ 13,729 | 🐛 243 | 🌐 Ruby | 📅 2026-10-08 - Identify the programming languages used in a project.
 * [RepoLinter](https://github.com/todogroup/repolinter) ⚠️ Archived - Lint open source repositories for common issues.
 * [Repo Health Check](https://github.com/dogweather/repo-health-check) ⭐ 86 | 🐛 16 | 🌐 CoffeeScript | 📅 2024-06-07 - Analyze a project: How are the maintainers doing?
 * [Fosstars](https://github.com/SAP/fosstars-rating-core) ⚠️ Archived - A framework for defining and calculating ratings for open source projects.
@@ -95,14 +95,14 @@ Tools/frameworks for managing software supply chain security.
 
 Tools for managing and tracking open source licenses.
 
-* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,269 | 🐛 1,037 | 🌐 Java | 📅 2026-10-11 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-* [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,640 | 🐛 1,707 | 🌐 Python | 📅 2026-10-08 - Scan code for licenses, copyright and dependencies.
+* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,275 | 🐛 1,042 | 🌐 Java | 📅 2026-10-11 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,641 | 🐛 1,710 | 🌐 Python | 📅 2026-10-12 - Scan code for licenses, copyright and dependencies.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) ⭐ 2,534 | 🐛 37 | 🌐 Swift | 📅 2026-09-30 - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,099 | 🐛 335 | 🌐 Kotlin | 📅 2026-10-11 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
-* [LicenseFinder](https://github.com/pivotal/LicenseFinder) ⭐ 1,799 | 🐛 150 | 🌐 Ruby | 📅 2024-07-22 - Find licenses for your project's dependencies.
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,099 | 🐛 336 | 🌐 Kotlin | 📅 2026-10-12 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
+* [LicenseFinder](https://github.com/pivotal/LicenseFinder) ⭐ 1,798 | 🐛 150 | 🌐 Ruby | 📅 2024-07-22 - Find licenses for your project's dependencies.
 * [fossa-cli](https://github.com/fossas/fossa-cli) ⭐ 1,522 | 🐛 20 | 🌐 Haskell | 📅 2026-10-09 - Fast, portable and reliable dependency analysis for any codebase.
 * [Licensed](https://github.com/licensee/licensed) ⭐ 1,047 | 🐛 1 | 🌐 Ruby | 📅 2026-10-02 - A Ruby gem to cache and verify the licenses of dependencies.
-* [Licensee](https://github.com/licensee/licensee) ⭐ 914 | 🐛 5 | 🌐 Ruby | 📅 2026-10-05 - Identify a project's license file.
+* [Licensee](https://github.com/licensee/licensee) ⭐ 914 | 🐛 6 | 🌐 Ruby | 📅 2026-10-12 - Identify a project's license file.
 * [License Classifier](https://github.com/google/licenseclassifier) ⭐ 350 | 🐛 19 | 🌐 Go | 📅 2026-02-18 - A library and set of tools that can analyze text to determine what type of license it contains.
 * [askalono](https://github.com/jpeddicord/askalono) ⚠️ Archived - A library and command-line tool to help detect license texts. It's designed to be fast, accurate, and to support a wide variety of license texts.
 * [dpkg-licenses](https://github.com/daald/dpkg-licenses) ⭐ 177 | 🐛 5 | 🌐 Shell | 📅 2023-10-13 - A command line tool which lists the licenses of all installed packages in a Debian-based system (like Ubuntu).
@@ -134,7 +134,7 @@ Tools for creating and managing project websites and documentation.
 
 Security scanning and vulnerability management tools.
 
-* [DefectDojo](https://github.com/defectdojo/django-defectdojo) ⭐ 4,993 | 🐛 230 | 🌐 Python | 📅 2026-10-11 - An OWASP flagship DevSecOps platform that streamlines the vulnerability management lifecycle by importing findings from 200+ security scanning tools, deduplicating them, and tracking remediation across products and engagements.
+* [DefectDojo](https://github.com/defectdojo/django-defectdojo) ⭐ 4,994 | 🐛 224 | 🌐 Python | 📅 2026-10-12 - An OWASP flagship DevSecOps platform that streamlines the vulnerability management lifecycle by importing findings from 200+ security scanning tools, deduplicating them, and tracking remediation across products and engagements.
 * [Eclipse Steady](https://github.com/eclipse-steady/steady) ⭐ 547 | 🐛 20 | 🌐 Java | 📅 2023-12-04 - Helps to discover, assess and mitigate known vulnerabilities in Java and Python projects. Formerly known as "Vulnerability Assessement Tool" (Vulas).
 
 ## In-Kind Donations
@@ -152,4 +152,4 @@ The following organizations have formal or informal programs for offering in-kin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
