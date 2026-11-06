@@ -131,7 +131,7 @@
             "open_issues": 261,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1557,
+            "stars": 1559,
             "topics": [
               "angular",
               "cla",
@@ -302,7 +302,7 @@
             "id": 621207364,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T13:16:54Z",
+            "last_commit": "2026-11-06T07:09:00Z",
             "open_issues": 11,
             "owner": "cncf",
             "repo": "devstats",
@@ -310,6 +310,42 @@
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GitHub Repo Analytics",
+          "description": "A free, self-hosted template that preserves GitHub repository traffic history beyond 14 days and reports downloads, issues, and pull requests in a repository you own.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "GitHub repo analytics for open-source maintainers. Beyond GitHub's 14-day limit. Built with Dex",
+            "homepage": "https://github.com/exmergo/dex",
+            "id": 1424862326,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-06T04:30:54Z",
+            "open_issues": 14,
+            "owner": "exmergo",
+            "repo": "github-repo-analytics",
+            "stars": 7,
+            "topics": [
+              "analytics-engineering",
+              "dbt",
+              "duckdb",
+              "github-actions",
+              "github-analytics",
+              "github-stars",
+              "github-traffic",
+              "maintainers",
+              "metricflow",
+              "open-source",
+              "oss-metrics",
+              "pypi-downloads",
+              "semantic-layer",
+              "star-history"
+            ]
+          },
+          "first_seen": "2026-11-06T19:18:54.636Z"
         },
         {
           "node_type": "item",
@@ -350,11 +386,11 @@
             "id": 67722017,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T17:29:46Z",
+            "last_commit": "2026-11-06T16:44:20Z",
             "open_issues": 109,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3929,
+            "stars": 3928,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
@@ -375,7 +411,7 @@
             "open_issues": 16,
             "owner": "Netflix",
             "repo": "hubcommander",
-            "stars": 1318,
+            "stars": 1319,
             "topics": [
               "bot",
               "chatops",
@@ -459,7 +495,7 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-04T21:32:19Z",
-            "open_issues": 85,
+            "open_issues": 86,
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 263,
@@ -657,7 +693,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-11-04T16:30:37Z",
-            "open_issues": 234,
+            "open_issues": 235,
             "owner": "github-linguist",
             "repo": "linguist",
             "stars": 13764,
@@ -784,11 +820,11 @@
             "id": 11457947,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T08:08:28Z",
-            "open_issues": 888,
+            "last_commit": "2026-11-05T23:08:11Z",
+            "open_issues": 884,
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4417,
+            "stars": 4419,
             "topics": [
               "appsec",
               "bill-of-materials",
@@ -827,7 +863,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T22:19:55Z",
-            "open_issues": 1753,
+            "open_issues": 1780,
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
             "stars": 2662,
@@ -901,8 +937,8 @@
             "id": 107540288,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T15:09:45Z",
-            "open_issues": 340,
+            "last_commit": "2026-11-06T19:18:07Z",
+            "open_issues": 336,
             "owner": "oss-review-toolkit",
             "repo": "ort",
             "stars": 2117,
@@ -964,11 +1000,11 @@
             "id": 116995448,
             "language": "Haskell",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T17:25:14Z",
+            "last_commit": "2026-11-06T03:14:15Z",
             "open_issues": 16,
             "owner": "fossas",
             "repo": "fossa-cli",
-            "stars": 1527,
+            "stars": 1530,
             "topics": [
               "open-source-licensing",
               "open-source-vulnerabilities"
@@ -1106,6 +1142,43 @@
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
+        },
+        {
+          "node_type": "item",
+          "title": "BomLens",
+          "description": "Generate CycloneDX SBOMs, open source notice files, and license/security risk reports from source, containers, firmware, and AI models. Runs locally in Docker with a CLI, web UI, and desktop app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "BomLens — a local-first SBOM generator & open-source risk assessor (CycloneDX). Produce an SBOM, an open-source notice, and a security/license risk report from source code, containers, binaries, firmware, or an SBOM you received. CLI or web UI, no SaaS.",
+            "homepage": "https://sktelecom.github.io/bomlens/",
+            "id": 1157720466,
+            "language": "Shell",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-05T06:39:44Z",
+            "open_issues": 12,
+            "owner": "sktelecom",
+            "repo": "bomlens",
+            "stars": 27,
+            "topics": [
+              "cdxgen",
+              "cyclonedx",
+              "devsecops",
+              "docker",
+              "firmware-analysis",
+              "license-compliance",
+              "open-source-security",
+              "sbom",
+              "sbom-generator",
+              "sca",
+              "software-bill-of-materials",
+              "supply-chain-security",
+              "syft",
+              "trivy",
+              "vulnerability-scanning"
+            ]
+          },
+          "first_seen": "2026-11-06T19:18:54.636Z"
         }
       ],
       "title": "Licensing"
@@ -1125,11 +1198,11 @@
             "id": 31028375,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-05T16:54:30Z",
-            "open_issues": 265,
+            "last_commit": "2026-11-06T18:43:40Z",
+            "open_issues": 270,
             "owner": "DefectDojo",
             "repo": "django-DefectDojo",
-            "stars": 5192,
+            "stars": 5194,
             "topics": [
               "analytics",
               "appsec",
@@ -1179,7 +1252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T19:53:39.409Z",
+    "last_updated": "2026-11-06T19:18:54.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools for managing open source programs",
@@ -1187,8 +1260,8 @@
       "id": 75903395,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-09-07T01:06:50Z",
-      "open_issues": 17,
+      "last_commit": "2026-11-06T15:51:42Z",
+      "open_issues": 12,
       "owner": "todogroup",
       "repo": "awesome-ospo",
       "stars": 506,
@@ -1199,7 +1272,7 @@
         "todogroup"
       ]
     },
-    "original_repository_sha": "fe444391a6d63448c2d74de446f38ff4a09a892f",
+    "original_repository_sha": "ece570760126d4588b7e7c00e10294d968adb5ac",
     "enhanced_repository": "enhansome/enhansome-ospo",
     "enhanced_repository_description": null,
     "title": "Awesome OSS Management with stars"
