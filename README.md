@@ -44,7 +44,7 @@ Tools for tracking and visualizing GitHub activity.
 * [MeasureOSS](https://github.com/MeasureOSS/Measure) ⭐ 161 | 🐛 46 | 🌐 JavaScript | 📅 2023-04-18 - A contributor relationship management system.
 * [Project Portal](https://github.com/SAP/project-portal-for-innersource) ⭐ 156 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-17 - Lists all InnerSource (or Open Source) projects of a company in an interactive and easy to use way. Can be used as a template for implementing the "InnerSource portal" pattern by the InnerSource Commons community.
 * [devstats](https://github.com/cncf/devstats) ⭐ 130 | 🐛 11 | 🌐 Shell | 📅 2026-11-06 - A toolset to visualize GitHub archives using Grafana dashboards used by the Cloud Native Computing Foundation and Kubernetes.
-* [GitHub Repo Analytics](https://github.com/exmergo/github-repo-analytics) ⭐ 7 | 🐛 14 | 🌐 Python | 📅 2026-11-06 - A free, self-hosted template that preserves GitHub repository traffic history beyond 14 days and reports downloads, issues, and pull requests in a repository you own.
+* [GitHub Repo Analytics](https://github.com/exmergo/github-repo-analytics) ⭐ 7 | 🐛 14 | 🌐 Python | 📅 2026-11-07 - A free, self-hosted template that preserves GitHub repository traffic history beyond 14 days and reports downloads, issues, and pull requests in a repository you own.
 * [Augur](https://github.com/chaoss/augur) ⚠️ Archived - A software suite for collecting and measuring structured data about OSS communities.
 * [GrimoireLab](https://chaoss.github.io/grimoirelab/) - Software development analytics platform supporting more than 30 different data sources, part of CHAOSS Software project from The Linux Foundation.
 
@@ -79,7 +79,7 @@ Tools for project governance and community management.
 
 Tools for assessing and improving project quality.
 
-* [Linguist](https://github.com/github-linguist/linguist) ⭐ 13,764 | 🐛 235 | 🌐 Ruby | 📅 2026-11-04 - Identify the programming languages used in a project.
+* [Linguist](https://github.com/github-linguist/linguist) ⭐ 13,766 | 🐛 236 | 🌐 Ruby | 📅 2026-11-04 - Identify the programming languages used in a project.
 * [RepoLinter](https://github.com/todogroup/repolinter) ⚠️ Archived - Lint open source repositories for common issues.
 * [Repo Health Check](https://github.com/dogweather/repo-health-check) ⭐ 86 | 🐛 16 | 🌐 CoffeeScript | 📅 2024-06-07 - Analyze a project: How are the maintainers doing?
 * [Fosstars](https://github.com/SAP/fosstars-rating-core) ⚠️ Archived - A framework for defining and calculating ratings for open source projects.
@@ -96,12 +96,12 @@ Tools/frameworks for managing software supply chain security.
 
 Tools for managing and tracking open source licenses.
 
-* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,419 | 🐛 884 | 🌐 Java | 📅 2026-11-05 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
-* [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,662 | 🐛 1,780 | 🌐 Python | 📅 2026-11-02 - Scan code for licenses, copyright and dependencies.
+* [DependencyTrack](https://github.com/DependencyTrack/dependency-track) ⭐ 4,424 | 🐛 885 | 🌐 Java | 📅 2026-11-05 - An intelligent component analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* [ScanCode toolkit](https://github.com/aboutcode-org/scancode-toolkit) ⭐ 2,663 | 🐛 1,780 | 🌐 Python | 📅 2026-11-02 - Scan code for licenses, copyright and dependencies.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) ⭐ 2,537 | 🐛 37 | 🌐 Swift | 📅 2026-09-30 - A command-line tool that automatically generates a Plist of all your dependencies, including files added manually (specified by YAML config file) or using Carthage or CocoaPods.
-* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,117 | 🐛 336 | 🌐 Kotlin | 📅 2026-11-06 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
+* [OSS Review Toolkit](https://github.com/oss-review-toolkit/ort) ⭐ 2,117 | 🐛 334 | 🌐 Kotlin | 📅 2026-11-07 - Enables highly automated and customizable open source compliance checks od the source code and dependencies of a project by scanning it, downloading its sources, reporting any errors and violations against user-defined rules, and by creating third-party attribution documentation.
 * [LicenseFinder](https://github.com/pivotal/LicenseFinder) ⭐ 1,800 | 🐛 150 | 🌐 Ruby | 📅 2024-07-22 - Find licenses for your project's dependencies.
-* [fossa-cli](https://github.com/fossas/fossa-cli) ⭐ 1,530 | 🐛 16 | 🌐 Haskell | 📅 2026-11-06 - Fast, portable and reliable dependency analysis for any codebase.
+* [fossa-cli](https://github.com/fossas/fossa-cli) ⭐ 1,530 | 🐛 17 | 🌐 Haskell | 📅 2026-11-06 - Fast, portable and reliable dependency analysis for any codebase.
 * [Licensed](https://github.com/licensee/licensed) ⭐ 1,048 | 🐛 0 | 🌐 Ruby | 📅 2026-10-19 - A Ruby gem to cache and verify the licenses of dependencies.
 * [Licensee](https://github.com/licensee/licensee) ⭐ 921 | 🐛 6 | 🌐 Ruby | 📅 2026-11-02 - Identify a project's license file.
 * [License Classifier](https://github.com/google/licenseclassifier) ⚠️ Archived - A library and set of tools that can analyze text to determine what type of license it contains.
@@ -137,7 +137,7 @@ Tools for creating and managing project websites and documentation.
 
 Security scanning and vulnerability management tools.
 
-* [DefectDojo](https://github.com/defectdojo/django-defectdojo) ⭐ 5,194 | 🐛 270 | 🌐 Python | 📅 2026-11-06 - An OWASP flagship DevSecOps platform that streamlines the vulnerability management lifecycle by importing findings from 200+ security scanning tools, deduplicating them, and tracking remediation across products and engagements.
+* [DefectDojo](https://github.com/defectdojo/django-defectdojo) ⭐ 5,197 | 🐛 276 | 🌐 Python | 📅 2026-11-07 - An OWASP flagship DevSecOps platform that streamlines the vulnerability management lifecycle by importing findings from 200+ security scanning tools, deduplicating them, and tracking remediation across products and engagements.
 * [Eclipse Steady](https://github.com/eclipse-steady/steady) ⭐ 548 | 🐛 21 | 🌐 Java | 📅 2023-12-04 - Helps to discover, assess and mitigate known vulnerabilities in Java and Python projects. Formerly known as "Vulnerability Assessement Tool" (Vulas).
 
 ## In-Kind Donations
@@ -155,4 +155,4 @@ The following organizations have formal or informal programs for offering in-kin
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
