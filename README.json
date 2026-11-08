@@ -131,7 +131,7 @@
             "open_issues": 261,
             "owner": "cla-assistant",
             "repo": "cla-assistant",
-            "stars": 1559,
+            "stars": 1560,
             "topics": [
               "angular",
               "cla",
@@ -323,8 +323,8 @@
             "id": 1424862326,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T04:30:50Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-08T15:12:48Z",
+            "open_issues": 15,
             "owner": "exmergo",
             "repo": "github-repo-analytics",
             "stars": 7,
@@ -390,7 +390,7 @@
             "open_issues": 109,
             "owner": "google",
             "repo": "copybara",
-            "stars": 3928,
+            "stars": 3927,
             "topics": []
           },
           "first_seen": "2026-08-28T22:15:25.762Z"
@@ -494,8 +494,8 @@
             "id": 256513079,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T21:32:19Z",
-            "open_issues": 86,
+            "last_commit": "2026-11-08T09:36:52Z",
+            "open_issues": 88,
             "owner": "finos",
             "repo": "git-proxy",
             "stars": 263,
@@ -693,10 +693,10 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-11-04T16:30:37Z",
-            "open_issues": 236,
+            "open_issues": 238,
             "owner": "github-linguist",
             "repo": "linguist",
-            "stars": 13766,
+            "stars": 13771,
             "topics": [
               "language-grammars",
               "language-statistics",
@@ -821,10 +821,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T23:08:11Z",
-            "open_issues": 885,
+            "open_issues": 886,
             "owner": "DependencyTrack",
             "repo": "dependency-track",
-            "stars": 4424,
+            "stars": 4427,
             "topics": [
               "appsec",
               "bill-of-materials",
@@ -863,10 +863,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-02T22:19:55Z",
-            "open_issues": 1780,
+            "open_issues": 1781,
             "owner": "aboutcode-org",
             "repo": "scancode-toolkit",
-            "stars": 2663,
+            "stars": 2664,
             "topics": [
               "copyright",
               "copyright-scan",
@@ -937,11 +937,11 @@
             "id": 107540288,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-07T11:13:42Z",
+            "last_commit": "2026-11-08T14:46:34Z",
             "open_issues": 334,
             "owner": "oss-review-toolkit",
             "repo": "ort",
-            "stars": 2117,
+            "stars": 2116,
             "topics": [
               "compliance",
               "copyright",
@@ -1004,7 +1004,7 @@
             "open_issues": 17,
             "owner": "fossas",
             "repo": "fossa-cli",
-            "stars": 1530,
+            "stars": 1531,
             "topics": [
               "open-source-licensing",
               "open-source-vulnerabilities"
@@ -1088,7 +1088,7 @@
             "open_issues": 20,
             "owner": "google",
             "repo": "licenseclassifier",
-            "stars": 351,
+            "stars": 350,
             "topics": [
               "classifier",
               "google",
@@ -1198,11 +1198,11 @@
             "id": 31028375,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T17:33:25Z",
+            "last_commit": "2026-11-08T13:04:40Z",
             "open_issues": 276,
             "owner": "DefectDojo",
             "repo": "django-DefectDojo",
-            "stars": 5197,
+            "stars": 5201,
             "topics": [
               "analytics",
               "appsec",
@@ -1252,7 +1252,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T17:43:37.252Z",
+    "last_updated": "2026-11-08T17:54:12.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome tools for managing open source programs",
